@@ -1,0 +1,40 @@
+{
+  "simulation_id": "sim-almatti-dam-terrain-30-360",
+  "status": "completed",
+  "engine": "terrain",
+  "engine_name": "Physics-Based Terrain Flood Propagation Engine",
+  "dam_id": "almatti-dam",
+  "dam_name": "Almatti Dam",
+  "dam_state": "Karnataka",
+  "dam_river": "Krishna",
+  "dam_lat": 16.3277,
+  "dam_lon": 75.8874,
+  "dam_height_m": 52.4,
+  "release_percent": 30.0,
+  "duration_min": 360.0,
+  "time_step_min": 30,
+  "timesteps_min": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180,
+    210,
+    240,
+    270,
+    300,
+    330,
+    360
+  ],
+  "max_depth_m": 15.0,
+  "inundated_area_km2": 96.47,
+  "hydrograph": {
+    "q_peak_m3s": 2119.13,
+    "total_volume_m3": 22886610.84,
+    "effective_breach_width_m": 20.0,
+    "eff_height_m": 15.7,
+    "duration_sec": 21600.0
+  }
+}

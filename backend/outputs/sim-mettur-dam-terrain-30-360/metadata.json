@@ -1,0 +1,40 @@
+{
+  "simulation_id": "sim-mettur-dam-terrain-30-360",
+  "status": "completed",
+  "engine": "terrain",
+  "engine_name": "Physics-Based Terrain Flood Propagation Engine",
+  "dam_id": "mettur-dam",
+  "dam_name": "Mettur Dam",
+  "dam_state": "Tamil Nadu",
+  "dam_river": "Kaveri",
+  "dam_lat": 11.7929,
+  "dam_lon": 77.8021,
+  "dam_height_m": 64.0,
+  "release_percent": 30.0,
+  "duration_min": 360.0,
+  "time_step_min": 30,
+  "timesteps_min": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180,
+    210,
+    240,
+    270,
+    300,
+    330,
+    360
+  ],
+  "max_depth_m": 11.1,
+  "inundated_area_km2": 267.48,
+  "hydrograph": {
+    "q_peak_m3s": 2860.43,
+    "total_volume_m3": 30892603.87,
+    "effective_breach_width_m": 20.0,
+    "eff_height_m": 19.2,
+    "duration_sec": 21600.0
+  }
+}

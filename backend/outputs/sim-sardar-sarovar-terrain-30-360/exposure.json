@@ -1,0 +1,215 @@
+{
+  "settlements_flooded_count": 6,
+  "total_population_exposed": 3000,
+  "affected_settlements": [
+    {
+      "name": "Bhadal",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.4385908,
+        22.0270119
+      ]
+    },
+    {
+      "name": "Kakrana",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.4579643,
+        22.0476875
+      ]
+    },
+    {
+      "name": "Bhusa",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.2922061,
+        21.9350393
+      ]
+    },
+    {
+      "name": "Warwali",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.3027794,
+        21.9597533
+      ]
+    },
+    {
+      "name": "Sadri",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 11250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.3680644,
+        21.9771356
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 11250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.4026327,
+        22.0123216
+      ]
+    }
+  ],
+  "flooded_roads_km": 152.01,
+  "affected_roads": [
+    {
+      "name": "SH69",
+      "category": "primary",
+      "flooded_length_km": 0.48,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SH69",
+      "category": "primary",
+      "flooded_length_km": 0.41,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH69",
+      "category": "primary",
+      "flooded_length_km": 4.08,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 27.23,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4714",
+      "category": "secondary",
+      "flooded_length_km": 32.72,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4714",
+      "category": "secondary",
+      "flooded_length_km": 6.63,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4714",
+      "category": "secondary",
+      "flooded_length_km": 23.06,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4714",
+      "category": "secondary",
+      "flooded_length_km": 0.97,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4714",
+      "category": "secondary",
+      "flooded_length_km": 7.63,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4714",
+      "category": "secondary",
+      "flooded_length_km": 0.3,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MD4714",
+      "category": "secondary",
+      "flooded_length_km": 0.84,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SH69",
+      "category": "primary",
+      "flooded_length_km": 0.1,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH69",
+      "category": "primary",
+      "flooded_length_km": 7.35,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4706",
+      "category": "secondary",
+      "flooded_length_km": 0.54,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 27.03,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4714",
+      "category": "secondary",
+      "flooded_length_km": 12.64,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    }
+  ],
+  "bridges_at_risk": 0,
+  "hospitals_at_risk": 0,
+  "schools_at_risk": 0,
+  "total_estimated_damage_inr_cr": 18.38
+}

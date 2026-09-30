@@ -27,7 +27,22 @@ class SimulationManager:
     def create_and_run_simulation(self, dam_id: str = "tehri-dam", release_percent: float = 30.0,
                                    duration_min: float = 360.0, time_step_min: int = 30,
                                    engine_type: str = "terrain", custom_dam_meta: dict = None):
-        sim_id = f"sim-{uuid.uuid4().hex[:8]}"
+        
+        # Generate a deterministic ID based on the input parameters
+        safe_dam_id = dam_id.replace(" ", "_")
+        sim_id = f"sim-{safe_dam_id}-{engine_type}-{int(release_percent)}-{int(duration_min)}"
+
+        # Check if this exact simulation has already been cached
+        sim_dir = OUTPUTS_DIR / sim_id
+        if sim_dir.exists() and (sim_dir / "metadata.json").exists():
+            print(f"[SimulationManager] Returning cached simulation: {sim_id}")
+            meta = self.get_simulation_metadata(sim_id)
+            if meta:
+                # Ensure exposure summary is attached if it exists
+                exp = self.get_exposure(sim_id)
+                if exp:
+                    meta["exposure_summary"] = exp
+                return meta
 
         # If custom dam metadata provided (any dam in the world), use it directly
         if custom_dam_meta:
