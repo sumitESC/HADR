@@ -1,0 +1,26 @@
+{
+  "input_sample": {
+    "dam_id": "custom",
+    "release_percent": 50.0,
+    "duration_min": 720,
+    "time_step_min": 60,
+    "engine": "sph",
+    "custom_lat": 30.377,
+    "custom_lon": 78.481,
+    "custom_name": "Tehri Dam (Custom)",
+    "custom_height_m": 260.0,
+    "custom_river": "Bhagirathi"
+  },
+  "output_sample": {
+    "total_settlements_affected": 23,
+    "total_population_exposed": 145000,
+    "flooded_road_km": 87.3,
+    "hospitals_at_risk": 4,
+    "estimated_financial_loss_cr": 2340.5,
+    "evacuation_status": {
+      "mandatory_evacuation": 8,
+      "high_risk": 9,
+      "low_risk": 6
+    }
+  }
+}

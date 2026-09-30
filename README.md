@@ -1,111 +1,94 @@
-# Dam Break Inundation Modelling & Scenario Generation — HADR
+# HADR - Dam Break Flood Simulation System
 
-> A Generalized Hydrodynamic Framework for Humanitarian Assistance and Disaster Relief (HADR) using Multi-Model Flood Simulation, Loss & Damage Analysis, and Near Real-Time Satellite Validation.
+This is a flood simulation system our team (CTRL_ALT_WIN) built for Smart India Hackathon 2026 (Problem Statement SIH26161 by NTRO). The goal is to quickly simulate what happens when a dam breaks and how much damage it would cause downstream, using various mapping and physics models.
 
-**Project Type:** Software / GIS / Disaster Management  
-**Problem Statement:** SIH26161 — Dam Break Inundation Modelling Using Hydrodynamic Modelling of any River (NTRO)  
-**Team:** CTRL_ALT_WIN (SIH 2026)  
+## What it does
 
----
+When a dam fails, people need to know where the water will go right away. Our project helps with that by using map data (like DEMs for elevation and OSM for roads/buildings) to run flood simulations. 
 
-## 📖 Abstract
+We used three different ways to simulate the water flow:
+1. **Terrain Routing Engine:** A really fast physics-based approach to get quick predictions.
+2. **Smooth Particle Hydrodynamics (SPH):** We implemented this to simulate water particles moving over time.
+3. **Delft3D proxy:** A grid-based 2D shallow water equation solver.
 
-Flash floods triggered by catastrophic dam failures or natural lake bursts present an acute threat to downstream catchments across India. During a crisis, decision-makers need to rapidly estimate the volume of water release, the spatial extent of inundation, the propagation velocity, and the exact settlements, roads, hospitals, and bridges at risk. 
+It also calculates the estimated damage to buildings, roads, and hospitals, and you can export the results to `.shp`, `.kml`, or `GeoJSON`.
 
-This project introduces **HADR**, a comprehensive, generalized simulation framework that automates dam-break inundation modelling for any river system in India. The platform dynamically ingests open-source Digital Elevation Models (SRTM/ASTER), hydrological vector data from OpenStreetMap, and Sentinel-1 SAR imagery via Google Earth Engine.
+## Tech Stack
+- **Frontend:** React, MapLibre GL JS, Tailwind CSS, Vite
+- **Backend:** FastAPI (Python), NumPy, SciPy, Rasterio, Shapely
+- **Data processing:** Java Osmosis, Google Earth Engine API
 
-To balance emergency speed with scientific accuracy, the software implements a novel tri-model architecture:
-1. A blazing-fast physics-based **Terrain Routing Engine** for sub-second emergency predictions.
-2. A **Smooth Particle Hydrodynamics (SPH)** adapter implementing Lagrangian Navier-Stokes equations.
-3. A **Delft3D proxy** implementing 2D Shallow Water Equations.
+## How to run the code
 
-The system further automates end-to-end **Loss and Damage Analysis** and provides standard GIS exports (.shp, .kml, GeoJSON).
-
----
-
-## 🎯 Key Features
-
-- **Multi-Model Architecture:** Compare Terrain Routing, SPH, and Delft3D (SWE) predictions in real-time.
-- **Automated Loss & Damage:** Computes financial exposure, exposed populations, and critical infrastructure at risk.
-- **Real-Time Satellite Verification:** Integrates with Google Earth Engine using Sentinel-1 SAR.
-- **Universal Dam Support:** Ships with 48 pre-loaded Indian dams and supports dynamic simulation for any custom dam worldwide.
-- **Dashboard GUI:** Interactive React/MapLibre WebGL dashboard with side-by-side comparisons.
-- **Standard GIS Outputs:** Export results seamlessly to `.shp`, `.kml`, and `GeoJSON`.
-
----
-
-## 🛠 Technology Stack
-
-- **Frontend:** React 19, MapLibre GL JS (WebGL), Tailwind CSS, Vite
-- **Backend:** FastAPI (Python 3.10+), NumPy, SciPy, Rasterio, Shapely
-- **OSM Processing:** Java Osmosis, pyosmium
-- **Satellite Integration:** Google Earth Engine (ee API)
-
----
-
-## 🚀 Installation & Setup
-
-### Prerequisites
-- Python 3.10+
-- Node.js (v18+)
-- Java (for Osmosis processing)
-
-### 1. Clone the Repository
+1. Clone the repo:
 ```bash
-git clone https://github.com/CTRL-ALT-WIN/HADR.git
+git clone https://github.com/sumitESC/HADR.git
 cd HADR
 ```
 
-### 2. Backend Setup
+2. Setup the backend:
 ```bash
 cd backend
 python -m venv venv
-
-# Windows
-venv\Scripts\activate
-# Linux/macOS
-source venv/bin/activate
-
+# On Windows use: venv\Scripts\activate
+# On Mac/Linux use: source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 3. Frontend Setup
-Open a new terminal and navigate to the frontend directory:
+3. Setup the frontend:
 ```bash
-cd frontend
+cd ../frontend
 npm install
 ```
 
-### 4. Run the Application
-You can run both backend and frontend servers using the unified runner script:
+4. Run the app:
+From the root folder, just run:
 ```bash
 python run.py
 ```
-This will start the FastAPI backend on `http://127.0.0.1:8000` and the Vite React frontend on `http://localhost:5173/`.
+This will start both the backend on `http://127.0.0.1:8000` and the frontend on `http://localhost:5173/`.
 
----
+## Sample Data (Input)
+Here is an example of the input data format used to run a simulation for a custom dam:
+```json
+{
+  "dam_id": "custom",
+  "release_percent": 50.0,
+  "duration_min": 720,
+  "time_step_min": 60,
+  "engine": "sph",
+  "custom_lat": 30.377,
+  "custom_lon": 78.481,
+  "custom_name": "Tehri Dam (Custom)",
+  "custom_height_m": 260.0,
+  "custom_river": "Bhagirathi"
+}
+```
 
-## 🧠 System Architecture
+## Sample Output
+The simulation provides details about the flood extent and the exposure analysis:
+```json
+{
+  "total_settlements_affected": 23,
+  "total_population_exposed": 145000,
+  "flooded_road_km": 87.3,
+  "hospitals_at_risk": 4,
+  "estimated_financial_loss_cr": 2340.5,
+  "evacuation_status": {
+    "mandatory_evacuation": 8,
+    "high_risk": 9,
+    "low_risk": 6
+  }
+}
+```
 
-The HADR platform utilizes three core hydrodynamic engines:
+## Team
+- Sumit Kushwaha (Team Leader)
+- Tanu Gupta
+- Somya Dwivedi
+- Suryansh Mishra
+- Vansh Jaiswal
+- Ujjwal Srivastava
 
-1. **Terrain Routing Engine:** Physics-based slope routing using broad-crested weir breach hydrograph. Generates inundation bounds in under 1 second.
-2. **SPH Solver:** Lagrangian particle-based Navier-Stokes solver with cKDTree spatial partitioning and Monaghan Artificial Viscosity.
-3. **Delft3D Proxy (2D SWE):** Eulerian grid-based 2D Shallow Water Equation solver with Lax-Friedrichs shock stabilization and adaptive CFL time-stepping.
-
----
-
-## 🤝 Team CTRL_ALT_WIN
-
-- **Sumit Kushwaha** (Team Leader)
-- **Tanu Gupta**
-- **Somya Dwivedi**
-- **Suryansh Mishra**
-- **Vansh Jaiswal**
-- **Ujjwal Srivastava**
-
----
-
-## 📄 License
-
-This project is developed as part of the Smart India Hackathon 2026 for the National Technical Research Organisation (NTRO). The source code is released under the MIT License for educational and research purposes. All open-source data sources (SRTM, OSM, Sentinel-1) are used in compliance with their respective licensing terms.
+## License
+Built for educational purposes during SIH 2026. Data used from open sources.
