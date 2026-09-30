@@ -1,0 +1,15 @@
+{
+  "dam_id": "nagarjuna-sagar",
+  "bounds": [
+    79.13369999999999,
+    16.395,
+    79.4937,
+    16.755
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 16.575,
+  "center_lon": 79.3137,
+  "extent_deg": 0.18
+}

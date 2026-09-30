@@ -1,0 +1,15 @@
+{
+  "dam_id": "damodar-tenughat",
+  "bounds": [
+    85.58399999999999,
+    23.536,
+    85.944,
+    23.896
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 23.716,
+  "center_lon": 85.764,
+  "extent_deg": 0.18
+}

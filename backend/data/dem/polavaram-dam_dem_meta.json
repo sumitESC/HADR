@@ -1,0 +1,15 @@
+{
+  "dam_id": "polavaram-dam",
+  "bounds": [
+    81.484,
+    17.067,
+    81.84400000000001,
+    17.427
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 17.247,
+  "center_lon": 81.664,
+  "extent_deg": 0.18
+}

@@ -1,0 +1,15 @@
+{
+  "dam_id": "cheruthoni-dam",
+  "bounds": [
+    76.80099999999999,
+    9.67,
+    77.161,
+    10.03
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 9.85,
+  "center_lon": 76.981,
+  "extent_deg": 0.18
+}

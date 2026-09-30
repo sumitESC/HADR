@@ -1,0 +1,15 @@
+{
+  "dam_id": "koteshwar-dam",
+  "bounds": [
+    78.35019999999999,
+    30.1025,
+    78.7102,
+    30.4625
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 30.2825,
+  "center_lon": 78.5302,
+  "extent_deg": 0.18
+}

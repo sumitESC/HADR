@@ -1,0 +1,15 @@
+{
+  "dam_id": "upper-krishna-dam",
+  "bounds": [
+    76.02199999999999,
+    16.048000000000002,
+    76.382,
+    16.408
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 16.228,
+  "center_lon": 76.202,
+  "extent_deg": 0.18
+}

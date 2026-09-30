@@ -1,0 +1,15 @@
+{
+  "dam_id": "dam-massanjore",
+  "bounds": [
+    87.195,
+    23.855,
+    87.555,
+    24.215
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 24.035,
+  "center_lon": 87.375,
+  "extent_deg": 0.18
+}

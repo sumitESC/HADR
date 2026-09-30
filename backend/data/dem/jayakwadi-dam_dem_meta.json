@@ -1,0 +1,15 @@
+{
+  "dam_id": "jayakwadi-dam",
+  "bounds": [
+    75.205,
+    19.333000000000002,
+    75.56500000000001,
+    19.693
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 19.513,
+  "center_lon": 75.385,
+  "extent_deg": 0.18
+}

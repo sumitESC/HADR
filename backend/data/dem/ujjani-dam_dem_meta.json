@@ -1,0 +1,15 @@
+{
+  "dam_id": "ujjani-dam",
+  "bounds": [
+    74.97099999999999,
+    17.907,
+    75.331,
+    18.267
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 18.087,
+  "center_lon": 75.151,
+  "extent_deg": 0.18
+}

@@ -1,0 +1,15 @@
+{
+  "dam_id": "tehri-dam",
+  "bounds": [
+    78.3003,
+    30.197400000000002,
+    78.6603,
+    30.5574
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 30.3774,
+  "center_lon": 78.4803,
+  "extent_deg": 0.18
+}

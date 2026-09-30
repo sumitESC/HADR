@@ -1,0 +1,15 @@
+{
+  "dam_id": "kadana-dam",
+  "bounds": [
+    73.66499999999999,
+    23.135,
+    74.025,
+    23.495
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 23.315,
+  "center_lon": 73.845,
+  "extent_deg": 0.18
+}
