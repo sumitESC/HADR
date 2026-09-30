@@ -1,19 +1,41 @@
-# HADR - Dam Break Flood Simulation System
+# A Generalized Hydrodynamic Framework for Rapid Dam-Break Inundation Modelling
 
-This is a flood simulation system our team (CTRL_ALT_WIN) built for Smart India Hackathon 2026 (Problem Statement SIH26161 by NTRO). The goal is to quickly simulate what happens when a dam breaks and how much damage it would cause downstream, using various mapping and physics models.
+**Project Type:** Software / GIS / Disaster Management  
+**Problem Statement:** SIH26161 — Dam Break Inundation Modelling Using Hydrodynamic Modelling of any River (NTRO)  
+**Team:** CTRL_ALT_WIN (SIH 2026)  
 
-## What it does
+---
 
-When a dam fails, people need to know where the water will go right away. Our project helps with that by using map data (like DEMs for elevation and OSM for roads/buildings) to run flood simulations. 
+## 1. Abstract
 
-We used three different ways to simulate the water flow:
-1. **Terrain Routing Engine:** A really fast physics-based approach to get quick predictions.
-2. **Smooth Particle Hydrodynamics (SPH):** We implemented this to simulate water particles moving over time.
-3. **Delft3D proxy:** A grid-based 2D shallow water equation solver.
+Flash floods triggered by catastrophic dam failures or natural lake bursts present an acute threat to downstream catchments across India. During a crisis, decision-makers need to rapidly estimate the volume of water release, the spatial extent of inundation, the propagation velocity, and the exact settlements, roads, hospitals, and bridges at risk. 
 
-It also calculates the estimated damage to buildings, roads, and hospitals, and you can export the results to .shp, .kml, or GeoJSON.
+This project introduces **HADR**, a comprehensive, generalized simulation framework that automates dam-break inundation modelling for any river system in India. The platform dynamically ingests open-source Digital Elevation Models (SRTM/ASTER), hydrological vector data from OpenStreetMap, and Sentinel-1 SAR imagery via Google Earth Engine. To balance emergency speed with scientific accuracy, the software implements a novel tri-model architecture, automates end-to-end Loss and Damage Analysis, and provides standard GIS exports (.shp, .kml, GeoJSON).
 
-## Architecture Diagram
+---
+
+## 2. Introduction
+
+### Background
+In crisis situations requiring emergency water release or in the event of a catastrophic dam break, estimating the volume of water propagation, flow velocity, and the exact spatial extent of downstream inundation is critical for effective Humanitarian Assistance and Disaster Relief (HADR). Existing hydrodynamic models (Delft3D, HEC-RAS) require days of setup and specialized hardware, making them impractical for immediate emergency response.
+
+### Objectives
+1. Build a generalized framework capable of simulating dam break scenarios on ANY river using open-source data.
+2. Implement and integrate three distinct hydrodynamic engines for scientific model comparison.
+3. Automate Loss and Damage Analysis against real infrastructure data.
+4. Integrate Google Earth Engine for near real-time Sentinel-1 SAR flood verification.
+5. Provide a scalable, interactive Dashboard GUI with GIS exports.
+
+---
+
+## 3. Methodology & Architecture
+
+The HADR platform utilizes three core hydrodynamic engines to balance speed and accuracy:
+1. **Terrain Routing Engine:** Physics-based slope routing using broad-crested weir breach hydrograph. Generates inundation bounds in under 1 second.
+2. **SPH Solver:** Lagrangian particle-based Navier-Stokes solver with cKDTree spatial partitioning and Monaghan Artificial Viscosity.
+3. **Delft3D Proxy (2D SWE):** Eulerian grid-based 2D Shallow Water Equation solver with Lax-Friedrichs shock stabilization and adaptive CFL time-stepping.
+
+### System Architecture
 
 ```mermaid
 graph TD
@@ -32,7 +54,7 @@ graph TD
     GISExport --> Dashboard
 ```
 
-## Workflow
+### System Workflow
 
 ```mermaid
 flowchart LR
@@ -44,7 +66,7 @@ flowchart LR
     Exp --> View[Visualize & Export]
 ```
 
-## Tech Stack
+### Technology Stack
 
 | Layer | Technology | Purpose |
 |-------|------------|---------|
@@ -54,38 +76,17 @@ flowchart LR
 | Data Processing | Java Osmosis, pyosmium | Fast offline OSM infrastructure extraction |
 | Satellite | Google Earth Engine (ee API) | Sentinel-1 SAR flood verification mapping |
 
-## How to run the code
+---
 
-1. Clone the repo:
-```bash
-git clone https://github.com/sumitESC/HADR.git
-cd HADR
-```
+## 4. Key Features & Experimental Results
 
-2. Setup the backend:
-```bash
-cd backend
-python -m venv venv
-# On Windows use: venv\Scripts\activate
-# On Mac/Linux use: source venv/bin/activate
-pip install -r requirements.txt
-```
+- **Multi-Model Architecture:** Compare Terrain Routing, SPH, and Delft3D (SWE) predictions in real-time.
+- **Automated Loss & Damage:** Computes financial exposure, exposed populations, and critical infrastructure at risk.
+- **Real-Time Satellite Verification:** Integrates with Google Earth Engine using Sentinel-1 SAR.
+- **Universal Dam Support:** Ships with 48 pre-loaded Indian dams and supports dynamic simulation for any custom dam worldwide.
 
-3. Setup the frontend:
-```bash
-cd ../frontend
-npm install
-```
-
-4. Run the app:
-From the root folder, just run:
-```bash
-python run.py
-```
-This will start both the backend on http://127.0.0.1:8000 and the frontend on http://localhost:5173/.
-
-## Sample Data (Input)
-Here is an example of the input data format used to run a simulation for a custom dam:
+### Sample Data (Input)
+Example of the input data format used to run a simulation for a custom dam:
 ```json
 {
   "dam_id": "custom",
@@ -101,7 +102,7 @@ Here is an example of the input data format used to run a simulation for a custo
 }
 ```
 
-## Sample Output
+### Sample Output (Exposure Analysis)
 The simulation provides details about the flood extent and the exposure analysis:
 ```json
 {
@@ -118,7 +119,52 @@ The simulation provides details about the flood extent and the exposure analysis
 }
 ```
 
-## Team
+---
+
+## 5. Implementation & Setup
+
+### Prerequisites
+- Python 3.10+
+- Node.js (v18+)
+- Java (for Osmosis processing)
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/sumitESC/HADR.git
+cd HADR
+```
+
+2. Setup the backend:
+```bash
+cd backend
+python -m venv venv
+# Windows
+venv\Scripts\activate
+# Linux/macOS
+source venv/bin/activate
+
+pip install -r requirements.txt
+```
+
+3. Setup the frontend:
+```bash
+cd ../frontend
+npm install
+```
+
+4. Run the application:
+```bash
+# From the root folder
+python run.py
+```
+This will start the FastAPI backend on `http://127.0.0.1:8000` and the Vite React frontend on `http://localhost:5173/`.
+
+---
+
+## 6. Team CTRL_ALT_WIN
+
 - Sumit Kushwaha (Team Leader)
 - Tanu Gupta
 - Somya Dwivedi
@@ -126,5 +172,8 @@ The simulation provides details about the flood extent and the exposure analysis
 - Vansh Jaiswal
 - Ujjwal Srivastava
 
-## License
-Built for educational purposes during SIH 2026. Data used from open sources.
+## 7. Conclusion & License
+
+This framework transitions complex hydrodynamic modelling into a real-time, interactive, web-based dashboard accessible to disaster management authorities. The project demonstrates that advanced hydrodynamic modelling can be made accessible, fast, and actionable.
+
+Developed as part of the Smart India Hackathon 2026 for the National Technical Research Organisation (NTRO). The source code is released under the MIT License for educational and research purposes. All open-source data sources (SRTM, OSM, Sentinel-1) are used in compliance with their respective licensing terms.
