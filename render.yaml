@@ -17,4 +17,4 @@ services:
       - key: NODE_VERSION
         value: 18.17.0
       - key: VITE_API_BASE_URL
-        value: "https://hadr-backend.onrender.com/api" # Note: Update this if the backend gets a different URL on Render
+        value: "https://hadr1.onrender.com/api"
