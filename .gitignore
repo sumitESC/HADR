@@ -41,10 +41,17 @@ build/
 Thumbs.db
 
 # Project specific data
-backend/data/dem/
+# backend/data/dem/ — TRACKED (2.5 MB, needed for Render)
 backend/data/osm/
 backend/data/satellite/
-backend/data/outputs/
+backend/data/settlements/
+backend/data/rivers/
 *.pbf
 *.tif
 *.tiff
+
+# Dev/test simulation outputs with random UUIDs — NOT tracked
+# Named outputs (sim-{dam_id}-terrain-30-360) ARE tracked
+backend/outputs/sim-[0-9a-f][0-9a-f]*
+backend/outputs/test-*
+check_missing.py

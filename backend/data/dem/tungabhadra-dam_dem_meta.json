@@ -1,0 +1,15 @@
+{
+  "dam_id": "tungabhadra-dam",
+  "bounds": [
+    76.16,
+    15.087,
+    76.52000000000001,
+    15.447
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 15.267,
+  "center_lon": 76.34,
+  "extent_deg": 0.18
+}

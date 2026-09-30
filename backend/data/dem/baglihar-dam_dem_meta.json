@@ -1,0 +1,15 @@
+{
+  "dam_id": "baglihar-dam",
+  "bounds": [
+    75.47999999999999,
+    32.94,
+    75.84,
+    33.3
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 33.12,
+  "center_lon": 75.66,
+  "extent_deg": 0.18
+}

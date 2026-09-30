@@ -1,0 +1,15 @@
+{
+  "dam_id": "parambikulam-dam",
+  "bounds": [
+    76.603,
+    10.245000000000001,
+    76.96300000000001,
+    10.605
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 10.425,
+  "center_lon": 76.783,
+  "extent_deg": 0.18
+}

@@ -1,0 +1,15 @@
+{
+  "dam_id": "kabini-dam",
+  "bounds": [
+    76.154,
+    11.758000000000001,
+    76.51400000000001,
+    12.118
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 11.938,
+  "center_lon": 76.334,
+  "extent_deg": 0.18
+}

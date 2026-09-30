@@ -1,0 +1,15 @@
+{
+  "dam_id": "nathpa-jhakri",
+  "bounds": [
+    77.5,
+    31.37,
+    77.86000000000001,
+    31.73
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 31.55,
+  "center_lon": 77.68,
+  "extent_deg": 0.18
+}

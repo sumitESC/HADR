@@ -1,0 +1,666 @@
+{
+  "settlements_flooded_count": 23,
+  "total_population_exposed": 73500,
+  "affected_settlements": [
+    {
+      "name": "Idukki",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.9797914,
+        9.8497872
+      ]
+    },
+    {
+      "name": "Cheruthoni",
+      "type": "town",
+      "population": 25000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 1312500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.9618039,
+        9.8581974
+      ]
+    },
+    {
+      "name": "Cheppukulam",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.8309417,
+        9.8686201
+      ]
+    },
+    {
+      "name": "Udumbannoor",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.8142565,
+        9.9060212
+      ]
+    },
+    {
+      "name": "Cheenikuzhi Kurisupally",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.8404377,
+        9.8925709
+      ]
+    },
+    {
+      "name": "Mariyapuram",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.9875977,
+        9.8564465
+      ]
+    },
+    {
+      "name": "Calvary School Ground",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0263418,
+        9.8237286
+      ]
+    },
+    {
+      "name": "Primary Health Centre, Poochapra",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.8499311,
+        9.8269673
+      ]
+    },
+    {
+      "name": "St. Joseph Academy of higher education",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.8211748,
+        9.8166039
+      ]
+    },
+    {
+      "name": "Angel Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.8158317,
+        9.905183
+      ]
+    },
+    {
+      "name": "Narakakkanam",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.9975223,
+        9.8399236
+      ]
+    },
+    {
+      "name": "Calvary Mount",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0259993,
+        9.8226898
+      ]
+    },
+    {
+      "name": "Government High School Poochapra",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.8451917,
+        9.8276283
+      ]
+    },
+    {
+      "name": "Girijyothi CMI Public School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.9560683,
+        9.8635862
+      ]
+    },
+    {
+      "name": "Naliyani",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.8648441,
+        9.8243629
+      ]
+    },
+    {
+      "name": "Alinchuvadu",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.970369,
+        9.8526371
+      ]
+    },
+    {
+      "name": "10th Mile",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0252887,
+        9.8187226
+      ]
+    },
+    {
+      "name": "Double Cutting",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0125596,
+        9.8282991
+      ]
+    },
+    {
+      "name": "Koottakkallu",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0327825,
+        9.8274087
+      ]
+    },
+    {
+      "name": "7th Mile",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0497466,
+        9.8053921
+      ]
+    },
+    {
+      "name": "8th Mile",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0446768,
+        9.8094891
+      ]
+    },
+    {
+      "name": "Millumpady",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.9963718,
+        9.8526168
+      ]
+    },
+    {
+      "name": "Koovakandam",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.8567436,
+        9.8363482
+      ]
+    }
+  ],
+  "flooded_roads_km": 760.61,
+  "affected_roads": [
+    {
+      "name": "Muvattupuzha - Theni Road",
+      "category": "primary",
+      "flooded_length_km": 0.98,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Muvattupuzha - Theni Road",
+      "category": "primary",
+      "flooded_length_km": 22.98,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Vazhathope-Thadiyambadu Road",
+      "category": "secondary",
+      "flooded_length_km": 10.13,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kanjar - Karukappilly Road",
+      "category": "secondary",
+      "flooded_length_km": 1.31,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Velliyamattom - Kurithikkalam Road",
+      "category": "secondary",
+      "flooded_length_km": 0.4,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kumarakom \u2013 Cumbammettu \u2013 Cumbam Road (Thodupuzha Poomala Route)",
+      "category": "primary",
+      "flooded_length_km": 0.67,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 0.86,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Adimaly - Kumily Highway",
+      "category": "trunk",
+      "flooded_length_km": 2.22,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Muvattupuzha - Theni Road",
+      "category": "primary",
+      "flooded_length_km": 12.21,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Thodupuzha - Puliyanmala Road",
+      "category": "primary",
+      "flooded_length_km": 19.91,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 4.23,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Adimali - Kumily Highway",
+      "category": "trunk",
+      "flooded_length_km": 479.09,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kumarakom \u2013 Cumbammettu \u2013 Cumbam Road (Thodupuzha Poomala Route)",
+      "category": "primary",
+      "flooded_length_km": 0.01,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Velliyamattom - Poochapra Road",
+      "category": "secondary",
+      "flooded_length_km": 0.07,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 0.22,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 0.01,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 7.05,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Muvattupuzha - Theni Road",
+      "category": "primary",
+      "flooded_length_km": 2.66,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Muvattupuzha - Theni Road",
+      "category": "primary",
+      "flooded_length_km": 65.96,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Muvattupuzha - Theni Road",
+      "category": "primary",
+      "flooded_length_km": 76.51,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Velliyamattom - Arakkulam Road",
+      "category": "secondary",
+      "flooded_length_km": 0.25,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Velliyamattom - Arakkulam Road",
+      "category": "secondary",
+      "flooded_length_km": 0.3,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Ernakulam - Thekkady Road",
+      "category": "primary",
+      "flooded_length_km": 0.63,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Kumarakom \u2013 Cumbammettu \u2013 Cumbam Road (Thodupuzha Poomala Route)",
+      "category": "primary",
+      "flooded_length_km": 0.87,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Velliyamattom - Kurithikkalam Road",
+      "category": "secondary",
+      "flooded_length_km": 4.79,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Adimaly - Kumily Highway",
+      "category": "trunk",
+      "flooded_length_km": 15.65,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Idukki-Neriyamangalam road",
+      "category": "trunk",
+      "flooded_length_km": 0.09,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Muvattupuzha - Theni Road",
+      "category": "primary",
+      "flooded_length_km": 3.6,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Muvattupuzha - Theni Road",
+      "category": "primary",
+      "flooded_length_km": 0.11,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Velliyamattom - Arakkulam Road",
+      "category": "secondary",
+      "flooded_length_km": 2.99,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Karippalangadu - Velliyamattom Road",
+      "category": "secondary",
+      "flooded_length_km": 5.44,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Adimaly - Kumily Highway",
+      "category": "trunk",
+      "flooded_length_km": 0.34,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Adimaly - Kumily Highway",
+      "category": "trunk",
+      "flooded_length_km": 0.32,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Cheruthoni Old Bridge",
+      "category": "trunk",
+      "flooded_length_km": 0.51,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH185",
+      "category": "trunk",
+      "flooded_length_km": 0.24,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 0.14,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Thodupuzha - Puliyanmala Road",
+      "category": "primary",
+      "flooded_length_km": 0.15,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Adimaly - Kumily Highway",
+      "category": "trunk",
+      "flooded_length_km": 0.3,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Adimaly - Kumily Highway",
+      "category": "trunk",
+      "flooded_length_km": 0.07,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Adimaly - Kumily Highway",
+      "category": "trunk",
+      "flooded_length_km": 0.02,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Adimaly - Kumily Highway",
+      "category": "trunk",
+      "flooded_length_km": 0.21,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Thodupuzha - Puliyanmala Road",
+      "category": "primary",
+      "flooded_length_km": 1.16,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Thodupuzha - Puliyanmala Road",
+      "category": "primary",
+      "flooded_length_km": 0.02,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Mariapuram Thadiyampadu road",
+      "category": "secondary",
+      "flooded_length_km": 14.93,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    }
+  ],
+  "bridges_at_risk": 5,
+  "hospitals_at_risk": 2,
+  "schools_at_risk": 4,
+  "total_estimated_damage_inr_cr": 346.88
+}

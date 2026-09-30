@@ -1,0 +1,1051 @@
+{
+  "settlements_flooded_count": 65,
+  "total_population_exposed": 165000,
+  "affected_settlements": [
+    {
+      "name": "Bhadrash",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.5590073,
+        31.3879935
+      ]
+    },
+    {
+      "name": "Duttnagar",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.5792307,
+        31.392907
+      ]
+    },
+    {
+      "name": "Nirsu",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6046124,
+        31.3925138
+      ]
+    },
+    {
+      "name": "Dakolar",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6254052,
+        31.4231946
+      ]
+    },
+    {
+      "name": "Jhakri",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 600000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6957554,
+        31.4872771
+      ]
+    },
+    {
+      "name": "Rampur Bushahr",
+      "type": "town",
+      "population": 25000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 3000000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6385618,
+        31.4515803
+      ]
+    },
+    {
+      "name": "Primary Health Centre, Rampur",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6295642,
+        31.4481448
+      ]
+    },
+    {
+      "name": "Shrikhand Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6673483,
+        31.458806
+      ]
+    },
+    {
+      "name": "Dr. B K Arora Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6516529,
+        31.4532692
+      ]
+    },
+    {
+      "name": "Leelawati Nursing Home",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6702069,
+        31.460377
+      ]
+    },
+    {
+      "name": "Kindla",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6955807,
+        31.5055137
+      ]
+    },
+    {
+      "name": "Thaladhar",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 11250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6778138,
+        31.5473898
+      ]
+    },
+    {
+      "name": "Kiundhar",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6761937,
+        31.5435221
+      ]
+    },
+    {
+      "name": "Khatal",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.5738084,
+        31.3993265
+      ]
+    },
+    {
+      "name": "Koel",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.5669527,
+        31.397092
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.5592065,
+        31.3969088
+      ]
+    },
+    {
+      "name": "Dero",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.582016,
+        31.4139227
+      ]
+    },
+    {
+      "name": "Baland Hagi",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 11250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.5806427,
+        31.409839
+      ]
+    },
+    {
+      "name": "Devidhar",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 11250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.5750315,
+        31.4054162
+      ]
+    },
+    {
+      "name": "Dharopa",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 11250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.5779605,
+        31.3981269
+      ]
+    },
+    {
+      "name": "Bael",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.5908136,
+        31.399876
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6132584,
+        31.3992166
+      ]
+    },
+    {
+      "name": "Rampur Bushahr",
+      "type": "town",
+      "population": 25000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 562500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6302099,
+        31.4486551
+      ]
+    },
+    {
+      "name": "Thachwa",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6342654,
+        31.4549978
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 11250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6578903,
+        31.4703815
+      ]
+    },
+    {
+      "name": "Darmot",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6569676,
+        31.4659707
+      ]
+    },
+    {
+      "name": "Baknu",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6629329,
+        31.4662727
+      ]
+    },
+    {
+      "name": "Chhani Agi",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6655936,
+        31.4691187
+      ]
+    },
+    {
+      "name": "Chela Agi",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6709795,
+        31.4733097
+      ]
+    },
+    {
+      "name": "Doghar Matla",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6652074,
+        31.4726325
+      ]
+    },
+    {
+      "name": "Tahrwi",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6673049,
+        31.4762515
+      ]
+    },
+    {
+      "name": "Mahwi",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6751959,
+        31.482295
+      ]
+    },
+    {
+      "name": "Shel Bal Agi",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6702285,
+        31.4831916
+      ]
+    },
+    {
+      "name": "Tandi",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6660442,
+        31.4806663
+      ]
+    },
+    {
+      "name": "Kader",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6733398,
+        31.4869428
+      ]
+    },
+    {
+      "name": "Sharon",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6928663,
+        31.4951401
+      ]
+    },
+    {
+      "name": "Sisu Ser",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 60000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6550043,
+        31.4613767
+      ]
+    },
+    {
+      "name": "Purani Chati",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 600000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6481807,
+        31.4576062
+      ]
+    },
+    {
+      "name": "Pipti Ser",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6415288,
+        31.4637927
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.616713,
+        31.4412501
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6208007,
+        31.4087997
+      ]
+    },
+    {
+      "name": "Kumsu",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.5949013,
+        31.4199931
+      ]
+    },
+    {
+      "name": "Bahwa",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.5908995,
+        31.4159554
+      ]
+    },
+    {
+      "name": "Jadoli",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.5955129,
+        31.4131719
+      ]
+    },
+    {
+      "name": "Ralu",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 60000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6148677,
+        31.4283244
+      ]
+    },
+    {
+      "name": "Randal",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6118421,
+        31.4331306
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 60000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.617861,
+        31.4330848
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 11250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6063704,
+        31.4300363
+      ]
+    },
+    {
+      "name": "Kharkag",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7025652,
+        31.4839785
+      ]
+    },
+    {
+      "name": "Khabreo",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7017069,
+        31.4895594
+      ]
+    },
+    {
+      "name": "Gharola",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7068567,
+        31.4931823
+      ]
+    },
+    {
+      "name": "Kolar",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 600000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6237297,
+        31.4284434
+      ]
+    },
+    {
+      "name": "Shingla",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6321304,
+        31.4270061
+      ]
+    },
+    {
+      "name": "Khuna",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 11250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.638911,
+        31.4271068
+      ]
+    },
+    {
+      "name": "Shaneri",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6430952,
+        31.431199
+      ]
+    },
+    {
+      "name": "Shanthal",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.640413,
+        31.4360691
+      ]
+    },
+    {
+      "name": "Kandi",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 60000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.642827,
+        31.4494148
+      ]
+    },
+    {
+      "name": "Khopri",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 5.0,
+      "damage_ratio_pct": 95,
+      "hazard_level": "Catastrophic (Total Destruction)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 71250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6373017,
+        31.4404721
+      ]
+    },
+    {
+      "name": "Pipla",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 5.0,
+      "damage_ratio_pct": 95,
+      "hazard_level": "Catastrophic (Total Destruction)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 71250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6355636,
+        31.4453783
+      ]
+    },
+    {
+      "name": "Racholi",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6527619,
+        31.4490944
+      ]
+    },
+    {
+      "name": "Thanti",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.648052,
+        31.4428062
+      ]
+    },
+    {
+      "name": "Khas Chati",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6535344,
+        31.4532314
+      ]
+    },
+    {
+      "name": "Khaneri",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6625466,
+        31.4566178
+      ]
+    },
+    {
+      "name": "Jakho",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.670486,
+        31.4598575
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6724386,
+        31.4538355
+      ]
+    }
+  ],
+  "flooded_roads_km": 459.46,
+  "affected_roads": [
+    {
+      "name": "NH5",
+      "category": "trunk",
+      "flooded_length_km": 41.37,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH5",
+      "category": "trunk",
+      "flooded_length_km": 126.58,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH5",
+      "category": "trunk",
+      "flooded_length_km": 0.39,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH5",
+      "category": "trunk",
+      "flooded_length_km": 124.41,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH5",
+      "category": "trunk",
+      "flooded_length_km": 17.21,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH5",
+      "category": "trunk",
+      "flooded_length_km": 6.21,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH5",
+      "category": "trunk",
+      "flooded_length_km": 11.19,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH5",
+      "category": "trunk",
+      "flooded_length_km": 8.37,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH5",
+      "category": "trunk",
+      "flooded_length_km": 123.73,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    }
+  ],
+  "bridges_at_risk": 0,
+  "hospitals_at_risk": 4,
+  "schools_at_risk": 0,
+  "total_estimated_damage_inr_cr": 877.12
+}

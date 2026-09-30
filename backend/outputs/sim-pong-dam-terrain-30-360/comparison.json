@@ -1,0 +1,30 @@
+{
+  "dam_id": "pong-dam",
+  "release_percent": 30.0,
+  "comparison": [
+    {
+      "engine": "Terrain-Based Flood Engine",
+      "status": "Active Solver (DEM Slope + Weir Hydrograph)",
+      "inundated_area_km2": 13.84,
+      "max_depth_m": 20.0,
+      "front_arrival_t30_km": 6.8,
+      "computation_time_sec": 0.45
+    },
+    {
+      "engine": "Advanced SPH Model",
+      "status": "O(N log N) Navier-Stokes Particles",
+      "inundated_area_km2": 13.56,
+      "max_depth_m": 20.4,
+      "front_arrival_t30_km": 7.1,
+      "computation_time_sec": 1.2
+    },
+    {
+      "engine": "Advanced SWE (Delft3D Proxy)",
+      "status": "Adaptive CFL + Manning Friction",
+      "inundated_area_km2": 5.76,
+      "max_depth_m": 36.39,
+      "front_arrival_t30_km": 0.4,
+      "computation_time_sec": 0.02
+    }
+  ]
+}

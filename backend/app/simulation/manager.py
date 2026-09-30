@@ -109,6 +109,14 @@ class SimulationManager:
             return json.load(f)
 
     def get_sph_particles(self, sim_id: str):
+        # Serve from pre-computed cache first (for low-RAM deployment)
+        sim_dir = OUTPUTS_DIR / sim_id
+        sph_file = sim_dir / "sph_particles.json"
+        if sph_file.exists():
+            with open(sph_file, "r") as f:
+                return json.load(f)
+
+        # Fallback: compute on-the-fly (only for local dev / custom dams)
         meta = self.get_simulation_metadata(sim_id)
         if not meta:
             return None
@@ -130,9 +138,26 @@ class SimulationManager:
         self.engine._init_for_dam(dam_meta)
         
         sph = SPHParticleVisualizer(self.engine.dem_proc)
-        return sph.generate_particle_trajectories(dam_lat=dam_lat, dam_lon=dam_lon, num_particles=200)
+        sph_data = sph.generate_particle_trajectories(dam_lat=dam_lat, dam_lon=dam_lon, num_particles=200)
+        
+        # Cache to disk for future requests
+        try:
+            with open(sph_file, "w") as f:
+                json.dump(sph_data, f)
+        except Exception:
+            pass
+        
+        return sph_data
 
     def get_comparison(self, sim_id: str):
+        # Serve from pre-computed cache first (for low-RAM deployment)
+        sim_dir = OUTPUTS_DIR / sim_id
+        comp_file = sim_dir / "comparison.json"
+        if comp_file.exists():
+            with open(comp_file, "r") as f:
+                return json.load(f)
+
+        # Fallback: compute on-the-fly (only for local dev / custom dams)
         meta = self.get_simulation_metadata(sim_id)
         if not meta:
             return None
@@ -155,7 +180,7 @@ class SimulationManager:
         self.engine._init_for_dam(dam_meta)
         
         d3d = Delft3DAdapter(self.engine.dem_proc)
-        return d3d.get_comparison_metrics(
+        comp_data = d3d.get_comparison_metrics(
             dam_id=dam_id,
             dam_lat=dam_lat,
             dam_lon=dam_lon,
@@ -163,3 +188,12 @@ class SimulationManager:
             terrain_area_km2=meta.get("inundated_area_km2", 24.6),
             terrain_max_depth_m=meta.get("max_depth_m", 4.2)
         )
+        
+        # Cache to disk for future requests
+        try:
+            with open(comp_file, "w") as f:
+                json.dump(comp_data, f, indent=2)
+        except Exception:
+            pass
+        
+        return comp_data

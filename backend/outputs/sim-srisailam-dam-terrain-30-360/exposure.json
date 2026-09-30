@@ -1,0 +1,11 @@
+{
+  "settlements_flooded_count": 0,
+  "total_population_exposed": 0,
+  "affected_settlements": [],
+  "flooded_roads_km": 0.0,
+  "affected_roads": [],
+  "bridges_at_risk": 0,
+  "hospitals_at_risk": 0,
+  "schools_at_risk": 0,
+  "total_estimated_damage_inr_cr": 0.0
+}

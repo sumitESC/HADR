@@ -1,0 +1,40 @@
+{
+  "simulation_id": "sim-ujjani-dam-terrain-30-360",
+  "status": "completed",
+  "engine": "terrain",
+  "engine_name": "Physics-Based Terrain Flood Propagation Engine",
+  "dam_id": "ujjani-dam",
+  "dam_name": "Ujjani Dam",
+  "dam_state": "Maharashtra",
+  "dam_river": "Bhima",
+  "dam_lat": 18.087,
+  "dam_lon": 75.151,
+  "dam_height_m": 56.4,
+  "release_percent": 30.0,
+  "duration_min": 360.0,
+  "time_step_min": 30,
+  "timesteps_min": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180,
+    210,
+    240,
+    270,
+    300,
+    330,
+    360
+  ],
+  "max_depth_m": 15.3,
+  "inundated_area_km2": 3.83,
+  "hydrograph": {
+    "q_peak_m3s": 2366.35,
+    "total_volume_m3": 25556607.94,
+    "effective_breach_width_m": 20.0,
+    "eff_height_m": 16.9,
+    "duration_sec": 21600.0
+  }
+}

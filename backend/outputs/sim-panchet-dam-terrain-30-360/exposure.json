@@ -1,0 +1,451 @@
+{
+  "settlements_flooded_count": 11,
+  "total_population_exposed": 37000,
+  "affected_settlements": [
+    {
+      "name": "Chirkunda",
+      "type": "town",
+      "population": 25000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 2250000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        86.7869794,
+        23.7451314
+      ]
+    },
+    {
+      "name": "Kumardhubi",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        86.7787756,
+        23.7421106
+      ]
+    },
+    {
+      "name": "Panchet Hill Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        86.7619917,
+        23.6894152
+      ]
+    },
+    {
+      "name": "Lions Club Raghunath Kharkia Memorial Eye Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        86.7977951,
+        23.7323474
+      ]
+    },
+    {
+      "name": "DVC Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        86.7938579,
+        23.7732901
+      ]
+    },
+    {
+      "name": "Middle School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        86.8047119,
+        23.7795063
+      ]
+    },
+    {
+      "name": "P\u0101tl\u0101b\u0101ri",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        86.7460191,
+        23.7181656
+      ]
+    },
+    {
+      "name": "Ch\u0101nch",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        86.7755127,
+        23.7167413
+      ]
+    },
+    {
+      "name": "Panchet",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        86.7598057,
+        23.6892937
+      ]
+    },
+    {
+      "name": "Mera",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        86.7966485,
+        23.7560066
+      ]
+    },
+    {
+      "name": "Dumarkunda",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        86.794374,
+        23.7157983
+      ]
+    }
+  ],
+  "flooded_roads_km": 713.4,
+  "affected_roads": [
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 6.57,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Grand Trunk Road",
+      "category": "primary",
+      "flooded_length_km": 1.28,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR065",
+      "category": "secondary",
+      "flooded_length_km": 156.24,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Barakar River Bridge",
+      "category": "trunk",
+      "flooded_length_km": 0.55,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR063",
+      "category": "secondary",
+      "flooded_length_km": 43.26,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR063",
+      "category": "secondary",
+      "flooded_length_km": 56.2,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Barakar River Bridge",
+      "category": "trunk",
+      "flooded_length_km": 0.58,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Grand Trunk Road",
+      "category": "primary",
+      "flooded_length_km": 4.0,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR063",
+      "category": "secondary",
+      "flooded_length_km": 2.19,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR063",
+      "category": "secondary",
+      "flooded_length_km": 9.01,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH19",
+      "category": "trunk",
+      "flooded_length_km": 0.87,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR063",
+      "category": "secondary",
+      "flooded_length_km": 1.01,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR063",
+      "category": "secondary",
+      "flooded_length_km": 0.61,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR064",
+      "category": "secondary",
+      "flooded_length_km": 5.61,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR063",
+      "category": "secondary",
+      "flooded_length_km": 20.91,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR063",
+      "category": "secondary",
+      "flooded_length_km": 25.7,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Grand Trunk Road",
+      "category": "primary",
+      "flooded_length_km": 0.75,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR063",
+      "category": "secondary",
+      "flooded_length_km": 0.22,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR063",
+      "category": "secondary",
+      "flooded_length_km": 16.9,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR063",
+      "category": "secondary",
+      "flooded_length_km": 0.71,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR063",
+      "category": "secondary",
+      "flooded_length_km": 0.75,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR063",
+      "category": "secondary",
+      "flooded_length_km": 90.52,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Grand Trunk Road",
+      "category": "primary",
+      "flooded_length_km": 8.53,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Grand Trunk Road",
+      "category": "primary",
+      "flooded_length_km": 3.85,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Grand Trunk Road",
+      "category": "primary",
+      "flooded_length_km": 21.78,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR064",
+      "category": "secondary",
+      "flooded_length_km": 12.67,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Grand Trunk Road",
+      "category": "primary",
+      "flooded_length_km": 6.57,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR065",
+      "category": "secondary",
+      "flooded_length_km": 137.87,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR065",
+      "category": "secondary",
+      "flooded_length_km": 0.88,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH19",
+      "category": "trunk",
+      "flooded_length_km": 19.22,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH19",
+      "category": "trunk",
+      "flooded_length_km": 19.32,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH19",
+      "category": "trunk",
+      "flooded_length_km": 0.28,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH19",
+      "category": "trunk",
+      "flooded_length_km": 0.31,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH19",
+      "category": "trunk",
+      "flooded_length_km": 16.82,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH19",
+      "category": "trunk",
+      "flooded_length_km": 0.41,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH19",
+      "category": "trunk",
+      "flooded_length_km": 0.44,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH19",
+      "category": "trunk",
+      "flooded_length_km": 17.76,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Grand Trunk Road",
+      "category": "primary",
+      "flooded_length_km": 1.36,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Grand Trunk Road",
+      "category": "primary",
+      "flooded_length_km": 0.89,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    }
+  ],
+  "bridges_at_risk": 2,
+  "hospitals_at_risk": 3,
+  "schools_at_risk": 1,
+  "total_estimated_damage_inr_cr": 312.38
+}

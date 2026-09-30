@@ -1,0 +1,1954 @@
+{
+  "settlements_flooded_count": 65,
+  "total_population_exposed": 135500,
+  "affected_settlements": [
+    {
+      "name": "Koynanagar",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 600000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.7422332,
+        17.3919834
+      ]
+    },
+    {
+      "name": "Helwak",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 600000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.728168,
+        17.3770638
+      ]
+    },
+    {
+      "name": "Umbraj",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1006345,
+        17.4009578
+      ]
+    },
+    {
+      "name": "Karad",
+      "type": "town",
+      "population": 53900,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 4851000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1822147,
+        17.2852127
+      ]
+    },
+    {
+      "name": "Gokul",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.7381284,
+        17.4056887
+      ]
+    },
+    {
+      "name": "Humbarli",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.7362006,
+        17.4122443
+      ]
+    },
+    {
+      "name": "Malkapur",
+      "type": "town",
+      "population": 31600,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 237000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1734616,
+        17.2593488
+      ]
+    },
+    {
+      "name": "Shree Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1876554,
+        17.2907557
+      ]
+    },
+    {
+      "name": "SMS English Medium School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1862938,
+        17.2925114
+      ]
+    },
+    {
+      "name": "Patan",
+      "type": "town",
+      "population": 25000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 2250000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.9003086,
+        17.376443
+      ]
+    },
+    {
+      "name": "Rajyog Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1792604,
+        17.2757223
+      ]
+    },
+    {
+      "name": "Sanskar Netrarugnalaya and Phaco Center",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.180173,
+        17.2837099
+      ]
+    },
+    {
+      "name": "Jogalekar Netra Rugnalaya",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1816103,
+        17.2813412
+      ]
+    },
+    {
+      "name": "Sahyadri Speciality Hospital - Karad",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1736029,
+        17.280529
+      ]
+    },
+    {
+      "name": "Trimbake Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1816415,
+        17.2897661
+      ]
+    },
+    {
+      "name": "Shriratna Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1811922,
+        17.2758101
+      ]
+    },
+    {
+      "name": "Kolekar Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1832341,
+        17.2760355
+      ]
+    },
+    {
+      "name": "Shinde Accident Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1808113,
+        17.2749879
+      ]
+    },
+    {
+      "name": "Mauli Hospital, Satara",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1833889,
+        17.287193
+      ]
+    },
+    {
+      "name": "Suman Hospital [Karad]",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1881163,
+        17.2918694
+      ]
+    },
+    {
+      "name": "Kn Gujar Memorial Hospital and Dr. Gujar Institute Of Medical Sciences",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1809039,
+        17.2837599
+      ]
+    },
+    {
+      "name": "Janugade Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1792141,
+        17.290151
+      ]
+    },
+    {
+      "name": "Rajashree Hosptail",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.183692,
+        17.2842145
+      ]
+    },
+    {
+      "name": "Pawar Surgical Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1823898,
+        17.2847709
+      ]
+    },
+    {
+      "name": "Takale Fracture Accident and Orthopaedic Hospital, Karad",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1802052,
+        17.2718056
+      ]
+    },
+    {
+      "name": "Patil Hospital [Karad]",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1872822,
+        17.2901126
+      ]
+    },
+    {
+      "name": "Shirke Netra Rugnalaya [Karad]",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1832743,
+        17.2848279
+      ]
+    },
+    {
+      "name": "Shree Hospital (Karad)",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.188345,
+        17.2904935
+      ]
+    },
+    {
+      "name": "Shree Sai Hospital and Cardio,Diabetes Center",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1835227,
+        17.2841852
+      ]
+    },
+    {
+      "name": "Sub-District Hospital Karad",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.186186,
+        17.288161
+      ]
+    },
+    {
+      "name": "Rural Hospital, Patan",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8943898,
+        17.3778915
+      ]
+    },
+    {
+      "name": "Niramaya Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1861809,
+        17.289948
+      ]
+    },
+    {
+      "name": "Chaitanya Children's Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1869335,
+        17.2914214
+      ]
+    },
+    {
+      "name": "Kshirsagar Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.188878,
+        17.291018
+      ]
+    },
+    {
+      "name": "Thorat ENT and Eye Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.181612,
+        17.275082
+      ]
+    },
+    {
+      "name": "Kazi Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.185202,
+        17.286539
+      ]
+    },
+    {
+      "name": "Shree Balaji Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.185181,
+        17.288139
+      ]
+    },
+    {
+      "name": "Siddhivinayak Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1875352,
+        17.2914456
+      ]
+    },
+    {
+      "name": "Sawant Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.185694,
+        17.2752901
+      ]
+    },
+    {
+      "name": "Lahoti Children's Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1795227,
+        17.2909934
+      ]
+    },
+    {
+      "name": "Prathmesh ENT Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.181303,
+        17.275657
+      ]
+    },
+    {
+      "name": "Botre Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1844258,
+        17.2773371
+      ]
+    },
+    {
+      "name": "Sanjivani Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.179288,
+        17.290364
+      ]
+    },
+    {
+      "name": "Jadhav Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.100064,
+        17.402753
+      ]
+    },
+    {
+      "name": "Yashodeep ENT Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1862714,
+        17.2900839
+      ]
+    },
+    {
+      "name": "Lomate Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.18641,
+        17.290813
+      ]
+    },
+    {
+      "name": "Danth Nursing Home",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.18056,
+        17.274283
+      ]
+    },
+    {
+      "name": "Shah Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1792283,
+        17.2887716
+      ]
+    },
+    {
+      "name": "Ekopa Hospital & Karad Fertility Research Centre",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1855407,
+        17.292237
+      ]
+    },
+    {
+      "name": "Karambelkar Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.179639,
+        17.2906987
+      ]
+    },
+    {
+      "name": "Dr. Srigopal Chandak Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.178959,
+        17.291574
+      ]
+    },
+    {
+      "name": "Mahajan Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.180278,
+        17.271995
+      ]
+    },
+    {
+      "name": "Saurabh Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.185123,
+        17.288738
+      ]
+    },
+    {
+      "name": "Bichkar Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1850973,
+        17.2896378
+      ]
+    },
+    {
+      "name": "Dikshit Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1874883,
+        17.2891187
+      ]
+    },
+    {
+      "name": "Bahulekar Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1845386,
+        17.2869927
+      ]
+    },
+    {
+      "name": "Karad Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.179193,
+        17.275881
+      ]
+    },
+    {
+      "name": "Chaitanya Children Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.179331,
+        17.281064
+      ]
+    },
+    {
+      "name": "Shree Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.098622,
+        17.3988639
+      ]
+    },
+    {
+      "name": "Bheda Eye Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1840739,
+        17.2776018
+      ]
+    },
+    {
+      "name": "Life Care Multi-Speciality Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.182059,
+        17.275816
+      ]
+    },
+    {
+      "name": "Kore Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.180617,
+        17.274421
+      ]
+    },
+    {
+      "name": "Barge Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8959771,
+        17.3750995
+      ]
+    },
+    {
+      "name": "Nikam Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.1827338,
+        17.2761814
+      ]
+    },
+    {
+      "name": "Saoo Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        74.184825,
+        17.275309
+      ]
+    }
+  ],
+  "flooded_roads_km": 3644.25,
+  "affected_roads": [
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 10.54,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 10.03,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 17.62,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH266",
+      "category": "trunk",
+      "flooded_length_km": 1.1,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 6.46,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 1.85,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Tasgaon Road",
+      "category": "trunk",
+      "flooded_length_km": 12.4,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 10.02,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 15.78,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 4.5,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 4.51,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 8.17,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 14.18,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 2.71,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 2.65,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH78",
+      "category": "primary",
+      "flooded_length_km": 10.67,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Umbraj Patan Road",
+      "category": "trunk",
+      "flooded_length_km": 973.64,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kumbharli Ghat",
+      "category": "trunk",
+      "flooded_length_km": 49.71,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Umbraj Patan Road",
+      "category": "primary",
+      "flooded_length_km": 43.09,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 10.26,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH266",
+      "category": "trunk",
+      "flooded_length_km": 9.59,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH75",
+      "category": "primary",
+      "flooded_length_km": 2.33,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 23.86,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Main Road",
+      "category": "secondary",
+      "flooded_length_km": 25.17,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Karad - Vita Road",
+      "category": "trunk",
+      "flooded_length_km": 2.48,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Patan Chiplun Road",
+      "category": "trunk",
+      "flooded_length_km": 14.66,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 1.92,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 100.99,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 22.94,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 5.23,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 129.14,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 10.06,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 1.15,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 4.73,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 24.66,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 1.3,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 4.64,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 22.43,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 31.4,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 9.44,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Karad- Chipaln Road",
+      "category": "secondary",
+      "flooded_length_km": 8.75,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Umbraj Patan Road",
+      "category": "trunk",
+      "flooded_length_km": 3.76,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Karad Chiplun Road",
+      "category": "trunk",
+      "flooded_length_km": 476.04,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 3.88,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 1.43,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 3.82,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 1.44,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Masur Road",
+      "category": "primary",
+      "flooded_length_km": 105.49,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 1.86,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 0.26,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 1.55,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Karad Dhebewadi Road",
+      "category": "secondary",
+      "flooded_length_km": 95.54,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 8.6,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 39.42,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 100.91,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 10.33,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 17.47,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Khanapur Road",
+      "category": "primary",
+      "flooded_length_km": 7.71,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 5.08,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 5.05,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 24.0,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 132.27,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH76",
+      "category": "primary",
+      "flooded_length_km": 3.66,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH76",
+      "category": "primary",
+      "flooded_length_km": 33.87,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH76",
+      "category": "primary",
+      "flooded_length_km": 18.84,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 16.66,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 16.81,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "trunk",
+      "flooded_length_km": 0.15,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "trunk",
+      "flooded_length_km": 3.64,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "trunk",
+      "flooded_length_km": 4.15,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "trunk",
+      "flooded_length_km": 0.64,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 4.66,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH266",
+      "category": "trunk",
+      "flooded_length_km": 1.46,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Market Yard Road",
+      "category": "primary",
+      "flooded_length_km": 12.91,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 3.15,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 4.34,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Karad - Vita Road",
+      "category": "trunk",
+      "flooded_length_km": 2.38,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 0.6,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 12.97,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Khanapur Road",
+      "category": "trunk",
+      "flooded_length_km": 1.68,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 13.53,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Khanapur Road",
+      "category": "trunk",
+      "flooded_length_km": 13.34,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Datta Chowk",
+      "category": "trunk",
+      "flooded_length_km": 2.9,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 0.84,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 2.85,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 0.35,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Karad- Dhebewadi-Kalgaon Road",
+      "category": "primary",
+      "flooded_length_km": 18.71,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 5.07,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Service Road",
+      "category": "trunk",
+      "flooded_length_km": 10.02,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Bus Stand Road",
+      "category": "trunk",
+      "flooded_length_km": 5.55,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 3.07,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 0.46,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 0.51,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 0.86,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Patan Karad Road",
+      "category": "trunk",
+      "flooded_length_km": 263.83,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Patan Karad Road",
+      "category": "trunk",
+      "flooded_length_km": 24.54,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH75",
+      "category": "primary",
+      "flooded_length_km": 29.16,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH75",
+      "category": "primary",
+      "flooded_length_km": 0.48,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 1.23,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 0.22,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 0.07,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 5.95,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 72.13,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 123.85,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Karad- Chipaln Road",
+      "category": "trunk",
+      "flooded_length_km": 5.23,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 0.08,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 0.02,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 1.04,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Koyananagar ST Stand Road",
+      "category": "secondary",
+      "flooded_length_km": 65.14,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Umbraj Patan Road",
+      "category": "primary",
+      "flooded_length_km": 12.87,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 2.94,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 1.17,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 3.92,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.86,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 5.56,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 0.95,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.26,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.26,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.75,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.75,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.14,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.13,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 1.61,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 1.66,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 1.21,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH166E",
+      "category": "trunk",
+      "flooded_length_km": 26.71,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 9.92,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 9.99,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH266",
+      "category": "trunk",
+      "flooded_length_km": 1.24,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Market Yard Road",
+      "category": "primary",
+      "flooded_length_km": 0.9,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "trunk",
+      "flooded_length_km": 9.57,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 9.79,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 13.04,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "trunk",
+      "flooded_length_km": 0.32,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 0.29,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 0.3,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH266",
+      "category": "trunk",
+      "flooded_length_km": 0.31,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH266",
+      "category": "trunk",
+      "flooded_length_km": 0.56,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    }
+  ],
+  "bridges_at_risk": 0,
+  "hospitals_at_risk": 56,
+  "schools_at_risk": 1,
+  "total_estimated_damage_inr_cr": 913.8
+}

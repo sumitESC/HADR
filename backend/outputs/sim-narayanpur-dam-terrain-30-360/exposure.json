@@ -1,0 +1,392 @@
+{
+  "settlements_flooded_count": 15,
+  "total_population_exposed": 47500,
+  "affected_settlements": [
+    {
+      "name": "Tangadagi",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0935452,
+        16.2137232
+      ]
+    },
+    {
+      "name": "Kallapur",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.5139311,
+        16.1964205
+      ]
+    },
+    {
+      "name": "Yaragunti",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 11250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4411729,
+        16.1990631
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.5805348,
+        16.2474951
+      ]
+    },
+    {
+      "name": "Amaragola",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.1164537,
+        16.2005826
+      ]
+    },
+    {
+      "name": "Kamaladinni",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0706506,
+        16.2384071
+      ]
+    },
+    {
+      "name": "Kunchaganura",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0651813,
+        16.2281325
+      ]
+    },
+    {
+      "name": "Madari",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.1507209,
+        16.2016417
+      ]
+    },
+    {
+      "name": "Gorebala Tanda",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4729867,
+        16.1995291
+      ]
+    },
+    {
+      "name": "Jalibenchi",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 11250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4941909,
+        16.1896025
+      ]
+    },
+    {
+      "name": "Jangiramapura Tanda",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.3796292,
+        16.2111715
+      ]
+    },
+    {
+      "name": "Rodalabanda",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 600000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.3643678,
+        16.2018556
+      ]
+    },
+    {
+      "name": "Sunakal",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4062707,
+        16.2067279
+      ]
+    },
+    {
+      "name": "Government Hospital, Tangadagi",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0945934,
+        16.2176764
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.39821,
+        16.2049876
+      ]
+    }
+  ],
+  "flooded_roads_km": 348.31,
+  "affected_roads": [
+    {
+      "name": "SH60",
+      "category": "primary",
+      "flooded_length_km": 96.86,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH150A",
+      "category": "trunk",
+      "flooded_length_km": 0.16,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH150A",
+      "category": "trunk",
+      "flooded_length_km": 2.43,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH41",
+      "category": "primary",
+      "flooded_length_km": 0.57,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SH41",
+      "category": "primary",
+      "flooded_length_km": 7.33,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH41",
+      "category": "primary",
+      "flooded_length_km": 108.24,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH41",
+      "category": "primary",
+      "flooded_length_km": 1.56,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH41",
+      "category": "primary",
+      "flooded_length_km": 6.23,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH60",
+      "category": "primary",
+      "flooded_length_km": 29.87,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 3.12,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 1.02,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 10.35,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH150A",
+      "category": "trunk",
+      "flooded_length_km": 1.81,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH41",
+      "category": "primary",
+      "flooded_length_km": 0.86,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH41",
+      "category": "primary",
+      "flooded_length_km": 12.11,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH41",
+      "category": "primary",
+      "flooded_length_km": 24.81,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH41",
+      "category": "primary",
+      "flooded_length_km": 0.14,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 0.13,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 27.4,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 1.17,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 9.77,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH60",
+      "category": "primary",
+      "flooded_length_km": 2.37,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    }
+  ],
+  "bridges_at_risk": 0,
+  "hospitals_at_risk": 1,
+  "schools_at_risk": 0,
+  "total_estimated_damage_inr_cr": 231.0
+}

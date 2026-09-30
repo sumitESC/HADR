@@ -1,0 +1,3851 @@
+{
+  "settlements_flooded_count": 163,
+  "total_population_exposed": 188738,
+  "affected_settlements": [
+    {
+      "name": "Bhavani",
+      "type": "town",
+      "population": 10000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 900000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6824386,
+        11.4405993
+      ]
+    },
+    {
+      "name": "Mettur",
+      "type": "town",
+      "population": 50000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 4500000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7980929,
+        11.7902463
+      ]
+    },
+    {
+      "name": "Poolampatti",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7652169,
+        11.6564791
+      ]
+    },
+    {
+      "name": "Komarapalayam",
+      "type": "town",
+      "population": 25000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 1312500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6939806,
+        11.4425129
+      ]
+    },
+    {
+      "name": "Kunnathur",
+      "type": "hamlet",
+      "population": 277,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 2077500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8957348,
+        11.0996527
+      ]
+    },
+    {
+      "name": "Jedarpalayam",
+      "type": "village",
+      "population": 1255,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 65887500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8915758,
+        11.151492
+      ]
+    },
+    {
+      "name": "Chellampalaiyam",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8937995,
+        11.107306
+      ]
+    },
+    {
+      "name": "Government Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.747453,
+        11.3608508
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7484337,
+        11.3612506
+      ]
+    },
+    {
+      "name": "Pallipalayam",
+      "type": "town",
+      "population": 25000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 1312500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7482633,
+        11.3652431
+      ]
+    },
+    {
+      "name": "SSM Matriculation Higher Secondary School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6880046,
+        11.4321653
+      ]
+    },
+    {
+      "name": "Senthil Nursing Home",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6957293,
+        11.4395054
+      ]
+    },
+    {
+      "name": "Govt. Higher Secondary School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.699935,
+        11.4457201
+      ]
+    },
+    {
+      "name": "Govt hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6941951,
+        11.4432595
+      ]
+    },
+    {
+      "name": "Kokkarayanpettai",
+      "type": "village",
+      "population": 2000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7853606,
+        11.3127932
+      ]
+    },
+    {
+      "name": "Solasiramani",
+      "type": "village",
+      "population": 747,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 67230000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8686499,
+        11.2411287
+      ]
+    },
+    {
+      "name": "Uma Clinic",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6929756,
+        11.4404293
+      ]
+    },
+    {
+      "name": "Ammapettai",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 600000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7426153,
+        11.6197947
+      ]
+    },
+    {
+      "name": "MAM Higher Secondary School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7921159,
+        11.7637404
+      ]
+    },
+    {
+      "name": "Sri Saravana Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6829676,
+        11.4506202
+      ]
+    },
+    {
+      "name": "Sri Shanmuga Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7527426,
+        11.3659792
+      ]
+    },
+    {
+      "name": "Visaalam Hospitals",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.747808,
+        11.3651528
+      ]
+    },
+    {
+      "name": "Cheran Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7481976,
+        11.3680302
+      ]
+    },
+    {
+      "name": "Siddharth Maternity Centre",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8011632,
+        11.7874261
+      ]
+    },
+    {
+      "name": "Ashok Krishna Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6856579,
+        11.4483344
+      ]
+    },
+    {
+      "name": "Dr Loganathan Orthopaedic Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6903362,
+        11.4554834
+      ]
+    },
+    {
+      "name": "Suham Hospital and Diabetic Centre",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6912235,
+        11.4572053
+      ]
+    },
+    {
+      "name": "Pasur",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8537988,
+        11.2396105
+      ]
+    },
+    {
+      "name": "Sri Kumaran E N T Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7477763,
+        11.3657814
+      ]
+    },
+    {
+      "name": "Sri Krishna Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7477783,
+        11.3656648
+      ]
+    },
+    {
+      "name": "Mettur Govt Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.798885,
+        11.7960034
+      ]
+    },
+    {
+      "name": "Government Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.682149,
+        11.45112
+      ]
+    },
+    {
+      "name": "Sri Balaji Womens Centre",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6875979,
+        11.4531821
+      ]
+    },
+    {
+      "name": "Vijay Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.682019,
+        11.45091
+      ]
+    },
+    {
+      "name": "PGR Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.687185,
+        11.4512002
+      ]
+    },
+    {
+      "name": "Senthil Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6844482,
+        11.4475854
+      ]
+    },
+    {
+      "name": "Government Hospital, Komarapalayam",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6946365,
+        11.4435826
+      ]
+    },
+    {
+      "name": "Nerunjipettai",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 600000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7584731,
+        11.6542644
+      ]
+    },
+    {
+      "name": "Sathya Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8004201,
+        11.7864589
+      ]
+    },
+    {
+      "name": "S.K.A Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.797688,
+        11.7816111
+      ]
+    },
+    {
+      "name": "Devi Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7981799,
+        11.7940977
+      ]
+    },
+    {
+      "name": "Arun Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.797977,
+        11.794117
+      ]
+    },
+    {
+      "name": "Smp Medical Center and Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7933172,
+        11.7648873
+      ]
+    },
+    {
+      "name": "Prasath Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7977734,
+        11.7942437
+      ]
+    },
+    {
+      "name": "Mugil Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7941437,
+        11.7809533
+      ]
+    },
+    {
+      "name": "Sri Shankar Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7471671,
+        11.5780699
+      ]
+    },
+    {
+      "name": "Vasantha Hospital, Koneripatti",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7446,
+        11.580767
+      ]
+    },
+    {
+      "name": "Maha Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6781345,
+        11.4372003
+      ]
+    },
+    {
+      "name": "Lrk Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6889783,
+        11.4544553
+      ]
+    },
+    {
+      "name": "Kharthik Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6871221,
+        11.4516542
+      ]
+    },
+    {
+      "name": "Jothikumar Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.678407,
+        11.43687
+      ]
+    },
+    {
+      "name": "Ramya Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6870043,
+        11.4512773
+      ]
+    },
+    {
+      "name": "S.N.A. Siddha Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.682877,
+        11.44704
+      ]
+    },
+    {
+      "name": "Kandasamy Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6832304,
+        11.4450062
+      ]
+    },
+    {
+      "name": "Sutha Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6796472,
+        11.4365526
+      ]
+    },
+    {
+      "name": "Kavin Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6838194,
+        11.4399114
+      ]
+    },
+    {
+      "name": "Government Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6819742,
+        11.4519113
+      ]
+    },
+    {
+      "name": "Annusiya Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6813562,
+        11.4432777
+      ]
+    },
+    {
+      "name": "Anbe Sivam Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6854947,
+        11.4508139
+      ]
+    },
+    {
+      "name": "Vignesh Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6879679,
+        11.4513898
+      ]
+    },
+    {
+      "name": "Thanish Siddha Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.674964,
+        11.430003
+      ]
+    },
+    {
+      "name": "Gopikrishnan Eye Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.687171,
+        11.451813
+      ]
+    },
+    {
+      "name": "Shri Mani Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6838471,
+        11.44771
+      ]
+    },
+    {
+      "name": "Sumangali Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6827131,
+        11.4427668
+      ]
+    },
+    {
+      "name": "SKMH Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6780268,
+        11.4379787
+      ]
+    },
+    {
+      "name": "Immiaditya Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6836088,
+        11.4501276
+      ]
+    },
+    {
+      "name": "Sri Kaalangi Siddhar Mooligai Vaithiya Nilayam",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.674894,
+        11.432369
+      ]
+    },
+    {
+      "name": "Mahaswaran Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6882952,
+        11.4519883
+      ]
+    },
+    {
+      "name": "Karunya Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.687949,
+        11.451637
+      ]
+    },
+    {
+      "name": "Jaswanth Arun Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.687216,
+        11.451794
+      ]
+    },
+    {
+      "name": "Balakrishna Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.688074,
+        11.4514522
+      ]
+    },
+    {
+      "name": "Adithya Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6864105,
+        11.4515977
+      ]
+    },
+    {
+      "name": "Saraswathi Siddha Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6865838,
+        11.451769
+      ]
+    },
+    {
+      "name": "Shri Sathyanarayana Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6913408,
+        11.4291297
+      ]
+    },
+    {
+      "name": "St. Mary's Girls Hr. Sec. School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7958823,
+        11.7837774
+      ]
+    },
+    {
+      "name": "Govt. Hr. Sec. School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8006337,
+        11.792309
+      ]
+    },
+    {
+      "name": "Salem Camp GH",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8130475,
+        11.794162
+      ]
+    },
+    {
+      "name": "Kandipalayam.A",
+      "type": "hamlet",
+      "population": 210,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 4725000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.89308,
+        11.11527
+      ]
+    },
+    {
+      "name": "Anangur",
+      "type": "village",
+      "population": 937,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 7027500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8931879,
+        11.1185032
+      ]
+    },
+    {
+      "name": "Mariamman Padugai",
+      "type": "village",
+      "population": 501,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 11272500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8917313,
+        11.1397874
+      ]
+    },
+    {
+      "name": "Vadakarai Attur",
+      "type": "village",
+      "population": 958,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 7185000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8977367,
+        11.1512237
+      ]
+    },
+    {
+      "name": "Kandipalayam.V",
+      "type": "village",
+      "population": 687,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 15457500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.88859,
+        11.12972
+      ]
+    },
+    {
+      "name": "Saminathapuram",
+      "type": "hamlet",
+      "population": 220,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 11550000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8915301,
+        11.1017529
+      ]
+    },
+    {
+      "name": "Ayyampalayam K",
+      "type": "village",
+      "population": 1243,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 65257500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8938835,
+        11.1051386
+      ]
+    },
+    {
+      "name": "Nanjappagoudampalayam",
+      "type": "hamlet",
+      "population": 249,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 13072500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8720284,
+        11.1779428
+      ]
+    },
+    {
+      "name": "Kothamangalam",
+      "type": "village",
+      "population": 704,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 15840000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8803817,
+        11.1717417
+      ]
+    },
+    {
+      "name": "Karukkampalayam",
+      "type": "hamlet",
+      "population": 113,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 10170000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8671895,
+        11.1826212
+      ]
+    },
+    {
+      "name": "Pachagoundanvalasu",
+      "type": "village",
+      "population": 748,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 16830000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8721759,
+        11.2466418
+      ]
+    },
+    {
+      "name": "Marappampalayam Pudur",
+      "type": "village",
+      "population": 739,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 66510000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8719538,
+        11.2332005
+      ]
+    },
+    {
+      "name": "Vadugapalayam",
+      "type": "village",
+      "population": 506,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26565000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8698009,
+        11.203402
+      ]
+    },
+    {
+      "name": "Pongalivalasu",
+      "type": "hamlet",
+      "population": 161,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 1207500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.87205,
+        11.19438
+      ]
+    },
+    {
+      "name": "Marappampalayam",
+      "type": "village",
+      "population": 722,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 37905000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8751462,
+        11.2251017
+      ]
+    },
+    {
+      "name": "Sakthipalayam",
+      "type": "village",
+      "population": 764,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 17190000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8740334,
+        11.2420796
+      ]
+    },
+    {
+      "name": "Zamin Elampalli",
+      "type": "village",
+      "population": 827,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 43417500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.87839,
+        11.21686
+      ]
+    },
+    {
+      "name": "Naickenur",
+      "type": "hamlet",
+      "population": 290,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 15225000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.86825,
+        11.19838
+      ]
+    },
+    {
+      "name": "Arasampalayam pudur",
+      "type": "hamlet",
+      "population": 111,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 5827500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.86749,
+        11.19163
+      ]
+    },
+    {
+      "name": "St. Philomina's Middle School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8139396,
+        11.7957742
+      ]
+    },
+    {
+      "name": "Kattuvalavu",
+      "type": "village",
+      "population": 785,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 17662500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7888392,
+        11.3068534
+      ]
+    },
+    {
+      "name": "Pathima Nagar",
+      "type": "hamlet",
+      "population": 132,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 990000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7874621,
+        11.3178098
+      ]
+    },
+    {
+      "name": "Kombuthottam",
+      "type": "village",
+      "population": 509,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26722500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7789066,
+        11.3212954
+      ]
+    },
+    {
+      "name": "Vani Nagar",
+      "type": "hamlet",
+      "population": 234,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 12285000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7743396,
+        11.3267379
+      ]
+    },
+    {
+      "name": "Bharathinagar",
+      "type": "village",
+      "population": 1278,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 67095000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.78434,
+        11.31362
+      ]
+    },
+    {
+      "name": "Ambedhkar Nagar",
+      "type": "village",
+      "population": 860,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 45150000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.78434,
+        11.31217
+      ]
+    },
+    {
+      "name": "Oadapalli",
+      "type": "village",
+      "population": 1591,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 143190000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7595063,
+        11.3423404
+      ]
+    },
+    {
+      "name": "Vannanparai",
+      "type": "hamlet",
+      "population": 303,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 2272500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.76555,
+        11.34188
+      ]
+    },
+    {
+      "name": "Samayasangili Kudi st.",
+      "type": "hamlet",
+      "population": 131,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 11790000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7255572,
+        11.378492
+      ]
+    },
+    {
+      "name": "Samayasangili",
+      "type": "village",
+      "population": 570,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 68400000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.725228,
+        11.3767188
+      ]
+    },
+    {
+      "name": "Karaimedu",
+      "type": "hamlet",
+      "population": 310,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 6975000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7252992,
+        11.3826041
+      ]
+    },
+    {
+      "name": "Asarikadu",
+      "type": "hamlet",
+      "population": 270,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 2025000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7239567,
+        11.3874617
+      ]
+    },
+    {
+      "name": "M G R Nagar",
+      "type": "village",
+      "population": 615,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 13837500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.6941619,
+        11.4214296
+      ]
+    },
+    {
+      "name": "Santhaimedu",
+      "type": "hamlet",
+      "population": 379,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 2842500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7148583,
+        11.4000586
+      ]
+    },
+    {
+      "name": "Sanarpalayam",
+      "type": "village",
+      "population": 894,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 6705000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.69901,
+        11.41881
+      ]
+    },
+    {
+      "name": "Gandhi Nagar",
+      "type": "village",
+      "population": 927,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 48667500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.69263,
+        11.42788
+      ]
+    },
+    {
+      "name": "Periyarnagar",
+      "type": "village",
+      "population": 776,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 5820000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7053041,
+        11.4529318
+      ]
+    },
+    {
+      "name": "P Goundampalayam",
+      "type": "hamlet",
+      "population": 183,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 4117500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8015229,
+        11.2937846
+      ]
+    },
+    {
+      "name": "S Erayamangalam",
+      "type": "village",
+      "population": 745,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 16762500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8296935,
+        11.2688337
+      ]
+    },
+    {
+      "name": "Pattlur",
+      "type": "village",
+      "population": 697,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 62730000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8083667,
+        11.2745255
+      ]
+    },
+    {
+      "name": "Muniappampalayam",
+      "type": "hamlet",
+      "population": 103,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 772500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8519078,
+        11.2685052
+      ]
+    },
+    {
+      "name": "Chettithottam",
+      "type": "hamlet",
+      "population": 362,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 19005000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8627585,
+        11.2518125
+      ]
+    },
+    {
+      "name": "Molasi",
+      "type": "village",
+      "population": 716,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 37590000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8550333,
+        11.2580351
+      ]
+    },
+    {
+      "name": "Kattuvelampalayam",
+      "type": "village",
+      "population": 520,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 46800000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8435499,
+        11.2654625
+      ]
+    },
+    {
+      "name": "Erayamangalam",
+      "type": "village",
+      "population": 608,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 31920000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8337042,
+        11.2661441
+      ]
+    },
+    {
+      "name": "Kalpachapalli",
+      "type": "village",
+      "population": 556,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 4170000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8703663,
+        11.2542034
+      ]
+    },
+    {
+      "name": "Muniappampalayam",
+      "type": "village",
+      "population": 584,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 30660000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.84918,
+        11.26224
+      ]
+    },
+    {
+      "name": "Nedungulam",
+      "type": "hamlet",
+      "population": 318,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 2385000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7466805,
+        11.5975084
+      ]
+    },
+    {
+      "name": "Siluvampalayam",
+      "type": "village",
+      "population": 738,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 16605000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7455258,
+        11.592239
+      ]
+    },
+    {
+      "name": "Kottamedu",
+      "type": "hamlet",
+      "population": 355,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 42600000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7382813,
+        11.5992118
+      ]
+    },
+    {
+      "name": "Navithan Kottaiyur",
+      "type": "hamlet",
+      "population": 218,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 11445000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7550358,
+        11.6234858
+      ]
+    },
+    {
+      "name": "Kattur",
+      "type": "hamlet",
+      "population": 306,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 16065000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.74738,
+        11.60996
+      ]
+    },
+    {
+      "name": "Koneripatty",
+      "type": "village",
+      "population": 667,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 60030000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7460017,
+        11.5797184
+      ]
+    },
+    {
+      "name": "Poomaniyur",
+      "type": "village",
+      "population": 736,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 5520000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7569199,
+        11.5730325
+      ]
+    },
+    {
+      "name": "Kottayur",
+      "type": "hamlet",
+      "population": 250,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 13125000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7487159,
+        11.5599821
+      ]
+    },
+    {
+      "name": "Pudur",
+      "type": "hamlet",
+      "population": 356,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 32040000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7785081,
+        11.7136663
+      ]
+    },
+    {
+      "name": "Karunkardu",
+      "type": "hamlet",
+      "population": 280,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 6300000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7752581,
+        11.7331661
+      ]
+    },
+    {
+      "name": "Vachampalli",
+      "type": "village",
+      "population": 517,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 46530000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.78067,
+        11.6964
+      ]
+    },
+    {
+      "name": "Therkathikadu",
+      "type": "village",
+      "population": 547,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 49230000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.78233,
+        11.70118
+      ]
+    },
+    {
+      "name": "Thattankadu",
+      "type": "hamlet",
+      "population": 152,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 13680000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.77738,
+        11.73137
+      ]
+    },
+    {
+      "name": "Sekkanur",
+      "type": "hamlet",
+      "population": 430,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 38700000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.77728,
+        11.72785
+      ]
+    },
+    {
+      "name": "Perumpallam",
+      "type": "hamlet",
+      "population": 265,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 23850000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.77326,
+        11.69669
+      ]
+    },
+    {
+      "name": "Ottapallikadu",
+      "type": "hamlet",
+      "population": 250,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 13125000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7761,
+        11.72928
+      ]
+    },
+    {
+      "name": "Koorandipudur",
+      "type": "hamlet",
+      "population": 300,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 27000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.77563,
+        11.70744
+      ]
+    },
+    {
+      "name": "JJ nagar",
+      "type": "hamlet",
+      "population": 243,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 21870000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.77689,
+        11.71803
+      ]
+    },
+    {
+      "name": "Kattur",
+      "type": "village",
+      "population": 647,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 58230000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7884529,
+        11.7252197
+      ]
+    },
+    {
+      "name": "Poraiyur",
+      "type": "village",
+      "population": 1345,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 121050000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7860221,
+        11.7152222
+      ]
+    },
+    {
+      "name": "Reddiyur",
+      "type": "village",
+      "population": 937,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 84330000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7976994,
+        11.7525669
+      ]
+    },
+    {
+      "name": "Sanavoor",
+      "type": "village",
+      "population": 582,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 52380000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7929273,
+        11.7437316
+      ]
+    },
+    {
+      "name": "Kolnaickenpatti",
+      "type": "village",
+      "population": 804,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 72360000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7878604,
+        11.7353131
+      ]
+    },
+    {
+      "name": "Navapatti",
+      "type": "hamlet",
+      "population": 420,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 50400000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.783675,
+        11.7394214
+      ]
+    },
+    {
+      "name": "Gundukallur",
+      "type": "hamlet",
+      "population": 250,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 30000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7844437,
+        11.7446471
+      ]
+    },
+    {
+      "name": "Kavericross",
+      "type": "village",
+      "population": 1200,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 108000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7852162,
+        11.7496112
+      ]
+    },
+    {
+      "name": "Nattamangalam",
+      "type": "village",
+      "population": 492,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 59040000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7934735,
+        11.7572032
+      ]
+    },
+    {
+      "name": "Thermuti",
+      "type": "hamlet",
+      "population": 250,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 22500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.79253,
+        11.76275
+      ]
+    },
+    {
+      "name": "Pullavazhi Erikadu",
+      "type": "village",
+      "population": 510,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26775000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.80344,
+        11.76079
+      ]
+    },
+    {
+      "name": "Kuttikaradu",
+      "type": "hamlet",
+      "population": 250,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 5625000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.78933,
+        11.76393
+      ]
+    },
+    {
+      "name": "Amkottai",
+      "type": "hamlet",
+      "population": 250,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 22500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7801683,
+        11.7359409
+      ]
+    },
+    {
+      "name": "Pongiyannannagar",
+      "type": "village",
+      "population": 759,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 17077500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7815915,
+        11.7514967
+      ]
+    },
+    {
+      "name": "Thammankaradu",
+      "type": "hamlet",
+      "population": 150,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 13500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.78146,
+        11.74207
+      ]
+    },
+    {
+      "name": "Paraikottai",
+      "type": "hamlet",
+      "population": 392,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 20580000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.77981,
+        11.73946
+      ]
+    },
+    {
+      "name": "Panankattukottai",
+      "type": "hamlet",
+      "population": 150,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 18000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.78038,
+        11.73353
+      ]
+    },
+    {
+      "name": "Masilapalayam",
+      "type": "village",
+      "population": 906,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 6795000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.7874298,
+        11.8093351
+      ]
+    },
+    {
+      "name": "Kovilpalayam",
+      "type": "hamlet",
+      "population": 429,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 9652500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.77901,
+        11.8059
+      ]
+    },
+    {
+      "name": "Achankadu",
+      "type": "village",
+      "population": 480,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3600000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.77625,
+        11.80746
+      ]
+    },
+    {
+      "name": "Thermal",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.8106854,
+        11.7732246
+      ]
+    }
+  ],
+  "flooded_roads_km": 4818.8,
+  "affected_roads": [
+    {
+      "name": "Karumandampalayam - Malayampalayam - Thamaraipalayam - Salaipudur Road",
+      "category": "primary",
+      "flooded_length_km": 3.3,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Sathy - Athani - Bhavani Road",
+      "category": "primary",
+      "flooded_length_km": 11.75,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 804.75,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 10.57,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 97.73,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH381A",
+      "category": "trunk",
+      "flooded_length_km": 4.2,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 0.58,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Salem - Cochin - Kanniyakumari Road (Old NH47)",
+      "category": "primary",
+      "flooded_length_km": 19.35,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Bhavani - Komarapalayam Road",
+      "category": "primary",
+      "flooded_length_km": 6.94,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 27.48,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 1.91,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Pallipalayam Road",
+      "category": "trunk",
+      "flooded_length_km": 5.88,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Sivagiri - Vadapalani Road",
+      "category": "secondary",
+      "flooded_length_km": 0.62,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Old Bridge",
+      "category": "primary",
+      "flooded_length_km": 19.16,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 8.57,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 4.96,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Magudanchavadi - Edappadi - Komarapalayam Road",
+      "category": "primary",
+      "flooded_length_km": 9.56,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 4.5,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 0.32,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Salem - Cochin - Kanniyakumari Road (Old NH47)",
+      "category": "primary",
+      "flooded_length_km": 11.76,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH381A",
+      "category": "trunk",
+      "flooded_length_km": 15.99,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Salem Road",
+      "category": "trunk",
+      "flooded_length_km": 8.47,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 0.14,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Pallipalayam Road",
+      "category": "trunk",
+      "flooded_length_km": 16.46,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH381A",
+      "category": "trunk",
+      "flooded_length_km": 0.6,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Salem - Cochin - Kanniyakumari Road (Old NH47)",
+      "category": "primary",
+      "flooded_length_km": 14.57,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Magudanchavadi - Edappadi - Komarapalayam Road",
+      "category": "primary",
+      "flooded_length_km": 0.34,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Magudanchavadi - Edappadi - Komarapalayam Road",
+      "category": "primary",
+      "flooded_length_km": 295.82,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Salem - Cochin - Kanniyakumari Road (Old NH47)",
+      "category": "primary",
+      "flooded_length_km": 0.37,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Karur Road",
+      "category": "primary",
+      "flooded_length_km": 0.18,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Erode - Karur Road",
+      "category": "primary",
+      "flooded_length_km": 36.29,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 314.86,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Sathy - Athani - Bhavani Road",
+      "category": "primary",
+      "flooded_length_km": 0.68,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 0.58,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Anthiyur - Ammapettai Road",
+      "category": "secondary",
+      "flooded_length_km": 35.88,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Bhavani - Vellithiruppur Road",
+      "category": "secondary",
+      "flooded_length_km": 2.19,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Edappadi - Nedunkulam - Koneripatti - Anandampalayam Road",
+      "category": "primary",
+      "flooded_length_km": 111.43,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH158",
+      "category": "primary",
+      "flooded_length_km": 6.78,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kalvadangam - Poolampatty Road",
+      "category": "secondary",
+      "flooded_length_km": 211.64,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Edappadi - Nedunkulam - Koneripatti - Anandampalayam Road",
+      "category": "primary",
+      "flooded_length_km": 33.11,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH158",
+      "category": "primary",
+      "flooded_length_km": 21.33,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Edappadi - Poolampatty - Mettur Road",
+      "category": "primary",
+      "flooded_length_km": 612.99,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 17.62,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 30.17,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Church Road",
+      "category": "primary",
+      "flooded_length_km": 16.56,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH158",
+      "category": "primary",
+      "flooded_length_km": 6.64,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH158",
+      "category": "primary",
+      "flooded_length_km": 17.92,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 3.91,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 9.95,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 95.72,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 1.84,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 12.75,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 26.95,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 10.66,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 0.71,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 0.62,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 2.45,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 6.4,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 7.12,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 8.56,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 2.84,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 6.05,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kokkarayenpettai Cauvery Bridge",
+      "category": "primary",
+      "flooded_length_km": 10.14,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Tiruchengode - Kokkarayanpettai Road",
+      "category": "primary",
+      "flooded_length_km": 13.31,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kokkarayenpet cauvery road",
+      "category": "primary",
+      "flooded_length_km": 16.48,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Chittalandur - Jedarpalayam Road",
+      "category": "secondary",
+      "flooded_length_km": 4.16,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 7.56,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Moolappathai - Kalvadangam Road",
+      "category": "secondary",
+      "flooded_length_km": 50.69,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Pasur R.S. - Elumathur - Vellodu Road",
+      "category": "secondary",
+      "flooded_length_km": 2.29,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Pasur R.S. - Elumathur - Vellodu Road",
+      "category": "secondary",
+      "flooded_length_km": 10.98,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 83.63,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544H",
+      "category": "trunk",
+      "flooded_length_km": 27.21,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544H",
+      "category": "trunk",
+      "flooded_length_km": 15.54,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544H",
+      "category": "trunk",
+      "flooded_length_km": 151.53,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Mallikkarai - Rasipuram - Thiruchengode - Erode Road",
+      "category": "primary",
+      "flooded_length_km": 13.09,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH158",
+      "category": "primary",
+      "flooded_length_km": 11.88,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Thoppur - Mettur - Bhavani - Erode Road",
+      "category": "trunk",
+      "flooded_length_km": 29.41,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 0.83,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 11.09,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 0.71,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 11.8,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 9.23,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544H",
+      "category": "trunk",
+      "flooded_length_km": 4.87,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Thoppur - Mettur - Bhavani - Erode Road",
+      "category": "trunk",
+      "flooded_length_km": 4.94,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 5.35,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Pasur R.S. - Elumathur - Vellodu Road",
+      "category": "secondary",
+      "flooded_length_km": 7.23,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Pasur R.S. - Elumathur - Vellodu Road",
+      "category": "secondary",
+      "flooded_length_km": 2.38,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Karur Road",
+      "category": "primary",
+      "flooded_length_km": 7.02,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Karur Road",
+      "category": "primary",
+      "flooded_length_km": 0.52,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Mettur - Palar Road",
+      "category": "primary",
+      "flooded_length_km": 38.54,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 0.26,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Salem - Cochin - Kanniyakumari Road (Old NH47)",
+      "category": "primary",
+      "flooded_length_km": 1.2,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Salem - Cochin - Kanniyakumari Road (Old NH47)",
+      "category": "primary",
+      "flooded_length_km": 0.43,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Salem - Cochin - Kanniyakumari Road (Old NH47)",
+      "category": "primary",
+      "flooded_length_km": 1.24,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 6.12,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH381A",
+      "category": "trunk",
+      "flooded_length_km": 13.0,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Salem Road",
+      "category": "trunk",
+      "flooded_length_km": 10.24,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 0.06,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 4.32,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Pasur R.S. - Elumathur - Vellodu Road",
+      "category": "secondary",
+      "flooded_length_km": 1.43,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Pasur R.S. - Elumathur - Vellodu Road",
+      "category": "secondary",
+      "flooded_length_km": 0.17,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Pasur R.S. - Elumathur - Vellodu Road",
+      "category": "secondary",
+      "flooded_length_km": 0.16,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH381A",
+      "category": "trunk",
+      "flooded_length_km": 15.89,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Salem Road",
+      "category": "trunk",
+      "flooded_length_km": 8.17,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 0.81,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 8.0,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kokkarayenpet cauvery road",
+      "category": "primary",
+      "flooded_length_km": 0.51,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kokkarayenpet cauvery road",
+      "category": "primary",
+      "flooded_length_km": 5.17,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 12.24,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 0.72,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 35.63,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 1.01,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 35.68,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 0.17,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Tiruchengode - Komarapalayam Road",
+      "category": "secondary",
+      "flooded_length_km": 0.76,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 2.46,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 0.61,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Salem - Cochin - Kanniyakumari Road (Old NH47)",
+      "category": "primary",
+      "flooded_length_km": 11.67,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Salem - Cochin - Kanniyakumari Road (Old NH47)",
+      "category": "primary",
+      "flooded_length_km": 1.93,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544H",
+      "category": "trunk",
+      "flooded_length_km": 1.24,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Bhavani - Chellampalayam Road",
+      "category": "secondary",
+      "flooded_length_km": 3.63,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Thoppur - Mettur - Bhavani - Erode Road",
+      "category": "trunk",
+      "flooded_length_km": 23.99,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 0.8,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH381A",
+      "category": "trunk",
+      "flooded_length_km": 0.97,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 11.86,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 11.77,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Salem Road",
+      "category": "trunk",
+      "flooded_length_km": 10.0,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544H",
+      "category": "trunk",
+      "flooded_length_km": 5.4,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544H",
+      "category": "trunk",
+      "flooded_length_km": 0.78,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Thoppur - Mettur - Bhavani - Erode Road",
+      "category": "trunk",
+      "flooded_length_km": 1.26,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Thoppur - Mettur - Bhavani - Erode Road",
+      "category": "trunk",
+      "flooded_length_km": 0.86,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Sathy - Athani - Bhavani Road",
+      "category": "primary",
+      "flooded_length_km": 0.12,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 2.48,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 2.48,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Sankari - Erode - Vellakovil Road",
+      "category": "trunk",
+      "flooded_length_km": 0.39,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Sankari - Erode - Vellakovil Road",
+      "category": "trunk",
+      "flooded_length_km": 0.27,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Pallipalayam Road",
+      "category": "trunk",
+      "flooded_length_km": 0.61,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Pallipalayam Road",
+      "category": "trunk",
+      "flooded_length_km": 5.96,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH381A",
+      "category": "trunk",
+      "flooded_length_km": 4.2,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 2.35,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 3.72,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 4.76,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 8.23,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Mettur - Palar Road",
+      "category": "primary",
+      "flooded_length_km": 29.94,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Mettur - Palar Road",
+      "category": "primary",
+      "flooded_length_km": 0.5,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Nedungulam Ferry Road",
+      "category": "secondary",
+      "flooded_length_km": 22.62,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Koneripatty - Kalvadangam Road",
+      "category": "secondary",
+      "flooded_length_km": 30.24,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Tiruchengode - Kokkarayanpettai Road",
+      "category": "primary",
+      "flooded_length_km": 4.89,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Sankari - Erode - Vellakovil Road",
+      "category": "trunk",
+      "flooded_length_km": 0.26,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH544H",
+      "category": "trunk",
+      "flooded_length_km": 2.91,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544H",
+      "category": "trunk",
+      "flooded_length_km": 3.25,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Sathy - Athani - Bhavani Road",
+      "category": "primary",
+      "flooded_length_km": 1.55,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Sathy - Athani - Bhavani Road",
+      "category": "primary",
+      "flooded_length_km": 1.44,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Thoppur - Mettur - Bhavani - Erode Road",
+      "category": "trunk",
+      "flooded_length_km": 2.67,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Thoppur - Mettur - Bhavani - Erode Road",
+      "category": "trunk",
+      "flooded_length_km": 1.94,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Thoppur - Mettur - Bhavani - Erode Road",
+      "category": "trunk",
+      "flooded_length_km": 3.62,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 4.85,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 2.18,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 0.5,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Sankari - Erode - Vellakovil Road",
+      "category": "trunk",
+      "flooded_length_km": 2.69,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SHU37",
+      "category": "primary",
+      "flooded_length_km": 2.41,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544H",
+      "category": "trunk",
+      "flooded_length_km": 146.17,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 6.71,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 17.97,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH158",
+      "category": "primary",
+      "flooded_length_km": 1.33,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 11.55,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 57.02,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 4.83,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 3.79,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 2.88,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 1.41,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Komarapalayam - Pallipalayam - Jedarpalayam - Pandamangalam - Velur Road",
+      "category": "primary",
+      "flooded_length_km": 1.31,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Karur Road",
+      "category": "primary",
+      "flooded_length_km": 94.29,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Karur Road",
+      "category": "primary",
+      "flooded_length_km": 0.08,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH544H",
+      "category": "trunk",
+      "flooded_length_km": 144.99,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH20A",
+      "category": "primary",
+      "flooded_length_km": 3.61,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544H",
+      "category": "trunk",
+      "flooded_length_km": 3.54,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 2.28,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 2.25,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 35.16,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SHU37",
+      "category": "primary",
+      "flooded_length_km": 2.45,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 8.91,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Paramathy - Jedarpalayam Road",
+      "category": "secondary",
+      "flooded_length_km": 4.12,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 0.41,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 22.0,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Bhavani - Kavandapady Road",
+      "category": "secondary",
+      "flooded_length_km": 5.61,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Ring Road",
+      "category": "primary",
+      "flooded_length_km": 1.12,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Karumandampalayam - Malayampalayam - Thamaraipalayam - Salaipudur Road",
+      "category": "primary",
+      "flooded_length_km": 0.09,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Karumandampalayam - Malayampalayam - Thamaraipalayam - Salaipudur Road",
+      "category": "primary",
+      "flooded_length_km": 0.46,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Bhavani - Mettur - Thoppur Road",
+      "category": "trunk",
+      "flooded_length_km": 168.18,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 1.16,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 5.94,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 0.82,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH544",
+      "category": "trunk",
+      "flooded_length_km": 1.69,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Salem Road",
+      "category": "trunk",
+      "flooded_length_km": 2.88,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH381A",
+      "category": "trunk",
+      "flooded_length_km": 3.33,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Mallikkarai - Rasipuram - Thiruchengode - Erode Road",
+      "category": "primary",
+      "flooded_length_km": 4.77,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Mallikkarai - Rasipuram - Thiruchengode - Erode Road",
+      "category": "primary",
+      "flooded_length_km": 2.71,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Erode - Salem Road",
+      "category": "trunk",
+      "flooded_length_km": 1.89,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    }
+  ],
+  "bridges_at_risk": 2,
+  "hospitals_at_risk": 58,
+  "schools_at_risk": 7,
+  "total_estimated_damage_inr_cr": 1256.44
+}

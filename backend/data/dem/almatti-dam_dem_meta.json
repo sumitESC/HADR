@@ -1,0 +1,15 @@
+{
+  "dam_id": "almatti-dam",
+  "bounds": [
+    75.70739999999999,
+    16.1477,
+    76.0674,
+    16.5077
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 16.3277,
+  "center_lon": 75.8874,
+  "extent_deg": 0.18
+}

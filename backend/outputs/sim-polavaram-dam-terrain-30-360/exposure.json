@@ -1,0 +1,758 @@
+{
+  "settlements_flooded_count": 31,
+  "total_population_exposed": 122727,
+  "affected_settlements": [
+    {
+      "name": "Tallapudi",
+      "type": "village",
+      "population": 4411,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 99247500.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6648373,
+        17.1225154
+      ]
+    },
+    {
+      "name": "Vegeshwarapuram",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6714124,
+        17.1140269
+      ]
+    },
+    {
+      "name": "Pidemetta",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.659379,
+        17.1345972
+      ]
+    },
+    {
+      "name": "Tadipudi",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.657865,
+        17.1634741
+      ]
+    },
+    {
+      "name": "Seethanagaram",
+      "type": "village",
+      "population": 7816,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 937920000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6931827,
+        17.177948
+      ]
+    },
+    {
+      "name": "Vangalapudi",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6729212,
+        17.1971867
+      ]
+    },
+    {
+      "name": "Ramachandrapuram",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6702272,
+        17.2236626
+      ]
+    },
+    {
+      "name": "Purushottapatnam",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6628458,
+        17.252272
+      ]
+    },
+    {
+      "name": "Prakkilanka",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6625399,
+        17.1313305
+      ]
+    },
+    {
+      "name": "Muggulla",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.7066316,
+        17.1472144
+      ]
+    },
+    {
+      "name": "Inugantivaripeta",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.7119195,
+        17.1390689
+      ]
+    },
+    {
+      "name": "Ramannaplem",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.755796,
+        17.2450751
+      ]
+    },
+    {
+      "name": "Nagumpalli",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.7460592,
+        17.2179345
+      ]
+    },
+    {
+      "name": "Nayudupeta",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.7350622,
+        17.2307657
+      ]
+    },
+    {
+      "name": "Gagalampalem",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.7663461,
+        17.2425141
+      ]
+    },
+    {
+      "name": "Chipurupalli",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.7293651,
+        17.2178911
+      ]
+    },
+    {
+      "name": "Chinna Kondepudi",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 600000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6968322,
+        17.1853233
+      ]
+    },
+    {
+      "name": "Singavaram",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6761094,
+        17.1907175
+      ]
+    },
+    {
+      "name": "Raghudevapuram",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.7067134,
+        17.1662326
+      ]
+    },
+    {
+      "name": "Rapaka",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.7044874,
+        17.1734798
+      ]
+    },
+    {
+      "name": "Bolledupalem",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.7805489,
+        17.2222839
+      ]
+    },
+    {
+      "name": "Gadelapalem",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.8065659,
+        17.2383603
+      ]
+    },
+    {
+      "name": "Gopalapuram",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.7835263,
+        17.2388526
+      ]
+    },
+    {
+      "name": "Lakshmi Kumari Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6632667,
+        17.1229804
+      ]
+    },
+    {
+      "name": "Dr. Murty Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.665362,
+        17.123819
+      ]
+    },
+    {
+      "name": "Sri Sai Spoorthy Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6607124,
+        17.1324792
+      ]
+    },
+    {
+      "name": "Sri Rama Nursing Home",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6963013,
+        17.1774358
+      ]
+    },
+    {
+      "name": "Gayatri English Medium High School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6944674,
+        17.1772229
+      ]
+    },
+    {
+      "name": "Seethanagram High school",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6935081,
+        17.1731064
+      ]
+    },
+    {
+      "name": "Anguluru",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.6636913,
+        17.2676095
+      ]
+    },
+    {
+      "name": "Nelakota",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        81.731836,
+        17.2462223
+      ]
+    }
+  ],
+  "flooded_roads_km": 195.64,
+  "affected_roads": [
+    {
+      "name": "NH365BB",
+      "category": "trunk",
+      "flooded_length_km": 11.38,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kapavaram - Prakkilanka Road",
+      "category": "primary",
+      "flooded_length_km": 5.12,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR0175",
+      "category": "secondary",
+      "flooded_length_km": 0.96,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MDR0168",
+      "category": "secondary",
+      "flooded_length_km": 76.8,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kapavaram - Prakkilanka Road",
+      "category": "primary",
+      "flooded_length_km": 1.17,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Marteru - Prakkilanka Road",
+      "category": "primary",
+      "flooded_length_km": 0.01,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Prakkilanka - Koyyalagudem Road",
+      "category": "primary",
+      "flooded_length_km": 1.83,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR0175",
+      "category": "secondary",
+      "flooded_length_km": 0.33,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MDR0266",
+      "category": "secondary",
+      "flooded_length_km": 1.6,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR0266",
+      "category": "secondary",
+      "flooded_length_km": 0.99,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR028",
+      "category": "secondary",
+      "flooded_length_km": 2.01,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR028",
+      "category": "secondary",
+      "flooded_length_km": 1.15,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR0116",
+      "category": "secondary",
+      "flooded_length_km": 0.61,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR0168",
+      "category": "secondary",
+      "flooded_length_km": 24.55,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR028",
+      "category": "secondary",
+      "flooded_length_km": 5.89,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR0266",
+      "category": "secondary",
+      "flooded_length_km": 3.1,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR0119",
+      "category": "secondary",
+      "flooded_length_km": 4.06,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MDR0175",
+      "category": "secondary",
+      "flooded_length_km": 0.31,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MDR0119",
+      "category": "secondary",
+      "flooded_length_km": 0.19,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MDR0119",
+      "category": "secondary",
+      "flooded_length_km": 0.03,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MDR0119",
+      "category": "secondary",
+      "flooded_length_km": 0.06,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MDR0119",
+      "category": "secondary",
+      "flooded_length_km": 0.1,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MDR0168",
+      "category": "secondary",
+      "flooded_length_km": 18.72,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR0168",
+      "category": "secondary",
+      "flooded_length_km": 1.8,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR0168",
+      "category": "secondary",
+      "flooded_length_km": 8.91,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR0168",
+      "category": "secondary",
+      "flooded_length_km": 0.69,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR0168",
+      "category": "secondary",
+      "flooded_length_km": 4.56,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MDR0168",
+      "category": "secondary",
+      "flooded_length_km": 0.07,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Rajahmundry - Chinna Kondepudi Road",
+      "category": "primary",
+      "flooded_length_km": 9.28,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Rajahmundry - Chinna Kondepudi Road",
+      "category": "primary",
+      "flooded_length_km": 0.05,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MDR0116",
+      "category": "secondary",
+      "flooded_length_km": 0.37,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MDR0116",
+      "category": "secondary",
+      "flooded_length_km": 0.02,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Rajahmundry - Chinna Kondepudi Road",
+      "category": "primary",
+      "flooded_length_km": 1.24,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Rajahmundry - Chinna Kondepudi Road",
+      "category": "primary",
+      "flooded_length_km": 1.28,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SH172",
+      "category": "primary",
+      "flooded_length_km": 2.54,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Rajahmundry - Chinna Kondepudi Road",
+      "category": "primary",
+      "flooded_length_km": 1.85,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH172",
+      "category": "primary",
+      "flooded_length_km": 1.87,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH172",
+      "category": "primary",
+      "flooded_length_km": 0.05,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MDR0119",
+      "category": "secondary",
+      "flooded_length_km": 0.06,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MDR0119",
+      "category": "secondary",
+      "flooded_length_km": 0.03,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    }
+  ],
+  "bridges_at_risk": 0,
+  "hospitals_at_risk": 4,
+  "schools_at_risk": 2,
+  "total_estimated_damage_inr_cr": 447.59
+}

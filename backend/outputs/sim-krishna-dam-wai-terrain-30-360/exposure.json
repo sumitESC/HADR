@@ -1,0 +1,759 @@
+{
+  "settlements_flooded_count": 25,
+  "total_population_exposed": 30000,
+  "affected_settlements": [
+    {
+      "name": "Panchgani",
+      "type": "town",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.7992681,
+        17.9239543
+      ]
+    },
+    {
+      "name": "St Peters School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.7924199,
+        17.9214501
+      ]
+    },
+    {
+      "name": "Bel Air Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.79792,
+        17.9214501
+      ]
+    },
+    {
+      "name": "Bhartiya Vidyapeeth School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8116499,
+        17.9214501
+      ]
+    },
+    {
+      "name": "Gods Valley School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8104591,
+        17.9200801
+      ]
+    },
+    {
+      "name": "Fidai Academy",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.79654,
+        17.9214501
+      ]
+    },
+    {
+      "name": "New Era High School",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.7966196,
+        17.9263632
+      ]
+    },
+    {
+      "name": "Dravid Highschool",
+      "type": "school",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8888414,
+        17.9484406
+      ]
+    },
+    {
+      "name": "Wai",
+      "type": "town",
+      "population": 25000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 1312500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8912964,
+        17.9519941
+      ]
+    },
+    {
+      "name": "Jeevanprakash Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.9532179,
+        17.8620794
+      ]
+    },
+    {
+      "name": "General Hospital - Wai",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8903026,
+        17.9534951
+      ]
+    },
+    {
+      "name": "Sunita Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.9525145,
+        17.8651237
+      ]
+    },
+    {
+      "name": "Mirajkar Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8846612,
+        17.9553283
+      ]
+    },
+    {
+      "name": "Ghotavadekar Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8856463,
+        17.9531123
+      ]
+    },
+    {
+      "name": "Patange Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8881887,
+        17.9553249
+      ]
+    },
+    {
+      "name": "Geetanjali Hospital - Wai",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8847005,
+        17.9486173
+      ]
+    },
+    {
+      "name": "Chintamani Eye and Dental Clinic",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8934536,
+        17.9544532
+      ]
+    },
+    {
+      "name": "Saygaonkars Krushnai Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8879233,
+        17.9551188
+      ]
+    },
+    {
+      "name": "Lokhande Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8908879,
+        17.9546337
+      ]
+    },
+    {
+      "name": "Babar Hospital and ICU",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8852814,
+        17.9487384
+      ]
+    },
+    {
+      "name": "Varad Hospital and ICU center",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8890546,
+        17.9492709
+      ]
+    },
+    {
+      "name": "Kadam Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.88563,
+        17.949175
+      ]
+    },
+    {
+      "name": "Datar's General Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.8901629,
+        17.954725
+      ]
+    },
+    {
+      "name": "Jagtap Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.890187,
+        17.941098
+      ]
+    },
+    {
+      "name": "Ghorpade Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        73.891867,
+        17.95343
+      ]
+    }
+  ],
+  "flooded_roads_km": 763.17,
+  "affected_roads": [
+    {
+      "name": "SH72",
+      "category": "primary",
+      "flooded_length_km": 10.23,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH72",
+      "category": "primary",
+      "flooded_length_km": 41.15,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "D R",
+      "category": "secondary",
+      "flooded_length_km": 48.8,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "D R",
+      "category": "secondary",
+      "flooded_length_km": 9.2,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH965D",
+      "category": "trunk",
+      "flooded_length_km": 2.21,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SH72",
+      "category": "primary",
+      "flooded_length_km": 352.22,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH965D",
+      "category": "trunk",
+      "flooded_length_km": 0.73,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SH72",
+      "category": "primary",
+      "flooded_length_km": 2.74,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH72",
+      "category": "primary",
+      "flooded_length_km": 9.41,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 9.38,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 9.38,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 1.46,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 1.48,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 22.68,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 22.43,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 1.33,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH965D",
+      "category": "trunk",
+      "flooded_length_km": 0.96,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH965D",
+      "category": "trunk",
+      "flooded_length_km": 0.97,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Satara Road",
+      "category": "secondary",
+      "flooded_length_km": 0.22,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH965D",
+      "category": "trunk",
+      "flooded_length_km": 0.03,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH965D",
+      "category": "trunk",
+      "flooded_length_km": 0.86,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SH63",
+      "category": "primary",
+      "flooded_length_km": 1.19,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "D R",
+      "category": "secondary",
+      "flooded_length_km": 14.59,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "D R",
+      "category": "secondary",
+      "flooded_length_km": 0.33,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "D R",
+      "category": "secondary",
+      "flooded_length_km": 46.71,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH72",
+      "category": "primary",
+      "flooded_length_km": 6.33,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "D R",
+      "category": "secondary",
+      "flooded_length_km": 0.49,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "D R",
+      "category": "secondary",
+      "flooded_length_km": 0.08,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "D R",
+      "category": "secondary",
+      "flooded_length_km": 4.43,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.17,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 4.47,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 4.53,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.17,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SH72",
+      "category": "primary",
+      "flooded_length_km": 35.49,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH72",
+      "category": "primary",
+      "flooded_length_km": 18.97,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH72",
+      "category": "primary",
+      "flooded_length_km": 16.2,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH72",
+      "category": "primary",
+      "flooded_length_km": 1.28,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 0.85,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "D R",
+      "category": "secondary",
+      "flooded_length_km": 0.95,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 17.19,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.38,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 17.07,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.44,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 2.41,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 2.35,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.38,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.35,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.62,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 0.68,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 5.38,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 5.34,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 2.78,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH48",
+      "category": "trunk",
+      "flooded_length_km": 2.7,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    }
+  ],
+  "bridges_at_risk": 0,
+  "hospitals_at_risk": 17,
+  "schools_at_risk": 6,
+  "total_estimated_damage_inr_cr": 176.25
+}

@@ -1,0 +1,40 @@
+{
+  "simulation_id": "sim-bhandardara-dam-terrain-30-360",
+  "status": "completed",
+  "engine": "terrain",
+  "engine_name": "Physics-Based Terrain Flood Propagation Engine",
+  "dam_id": "bhandardara-dam",
+  "dam_name": "Bhandardara Dam",
+  "dam_state": "Maharashtra",
+  "dam_river": "Pravara",
+  "dam_lat": 19.544,
+  "dam_lon": 73.763,
+  "dam_height_m": 79.8,
+  "release_percent": 30.0,
+  "duration_min": 360.0,
+  "time_step_min": 30,
+  "timesteps_min": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180,
+    210,
+    240,
+    270,
+    300,
+    330,
+    360
+  ],
+  "max_depth_m": 12.8,
+  "inundated_area_km2": 0.41,
+  "hydrograph": {
+    "q_peak_m3s": 3982.59,
+    "total_volume_m3": 43011926.17,
+    "effective_breach_width_m": 20.0,
+    "eff_height_m": 23.9,
+    "duration_sec": 21600.0
+  }
+}

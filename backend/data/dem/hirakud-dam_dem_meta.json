@@ -1,0 +1,15 @@
+{
+  "dam_id": "hirakud-dam",
+  "bounds": [
+    83.69,
+    21.34,
+    84.05000000000001,
+    21.7
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 21.52,
+  "center_lon": 83.87,
+  "extent_deg": 0.18
+}

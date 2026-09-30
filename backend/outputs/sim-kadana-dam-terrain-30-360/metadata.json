@@ -1,0 +1,40 @@
+{
+  "simulation_id": "sim-kadana-dam-terrain-30-360",
+  "status": "completed",
+  "engine": "terrain",
+  "engine_name": "Physics-Based Terrain Flood Propagation Engine",
+  "dam_id": "kadana-dam",
+  "dam_name": "Kadana Dam",
+  "dam_state": "Gujarat",
+  "dam_river": "Mahi",
+  "dam_lat": 23.315,
+  "dam_lon": 73.845,
+  "dam_height_m": 65.4,
+  "release_percent": 30.0,
+  "duration_min": 360.0,
+  "time_step_min": 30,
+  "timesteps_min": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180,
+    210,
+    240,
+    270,
+    300,
+    330,
+    360
+  ],
+  "max_depth_m": 9.3,
+  "inundated_area_km2": 274.55,
+  "hydrograph": {
+    "q_peak_m3s": 2954.8,
+    "total_volume_m3": 31911790.86,
+    "effective_breach_width_m": 20.0,
+    "eff_height_m": 19.6,
+    "duration_sec": 21600.0
+  }
+}

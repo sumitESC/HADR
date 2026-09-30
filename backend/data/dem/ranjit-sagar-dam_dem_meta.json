@@ -1,0 +1,15 @@
+{
+  "dam_id": "ranjit-sagar-dam",
+  "bounds": [
+    75.55099999999999,
+    32.29,
+    75.911,
+    32.65
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 32.47,
+  "center_lon": 75.731,
+  "extent_deg": 0.18
+}

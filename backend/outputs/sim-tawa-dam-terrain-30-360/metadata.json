@@ -1,0 +1,40 @@
+{
+  "simulation_id": "sim-tawa-dam-terrain-30-360",
+  "status": "completed",
+  "engine": "terrain",
+  "engine_name": "Physics-Based Terrain Flood Propagation Engine",
+  "dam_id": "tawa-dam",
+  "dam_name": "Tawa Dam",
+  "dam_state": "Madhya Pradesh",
+  "dam_river": "Tawa",
+  "dam_lat": 22.585,
+  "dam_lon": 77.78,
+  "dam_height_m": 58.0,
+  "release_percent": 30.0,
+  "duration_min": 360.0,
+  "time_step_min": 30,
+  "timesteps_min": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180,
+    210,
+    240,
+    270,
+    300,
+    330,
+    360
+  ],
+  "max_depth_m": 10.4,
+  "inundated_area_km2": 1.59,
+  "hydrograph": {
+    "q_peak_m3s": 2467.76,
+    "total_volume_m3": 26651799.96,
+    "effective_breach_width_m": 20.0,
+    "eff_height_m": 17.4,
+    "duration_sec": 21600.0
+  }
+}

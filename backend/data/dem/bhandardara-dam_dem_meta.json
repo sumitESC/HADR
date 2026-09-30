@@ -1,0 +1,15 @@
+{
+  "dam_id": "bhandardara-dam",
+  "bounds": [
+    73.583,
+    19.364,
+    73.94300000000001,
+    19.724
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 19.544,
+  "center_lon": 73.763,
+  "extent_deg": 0.18
+}

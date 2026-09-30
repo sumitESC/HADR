@@ -1,0 +1,891 @@
+{
+  "settlements_flooded_count": 17,
+  "total_population_exposed": 55500,
+  "affected_settlements": [
+    {
+      "name": "Sanawad",
+      "type": "town",
+      "population": 10000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 1200000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0724656,
+        22.1716912
+      ]
+    },
+    {
+      "name": "Jain Hospital, Khargone",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.068977,
+        22.1743823
+      ]
+    },
+    {
+      "name": "Narmada Hospital, Khargone",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0703565,
+        22.1786463
+      ]
+    },
+    {
+      "name": "Ritwik Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0689504,
+        22.1747294
+      ]
+    },
+    {
+      "name": "CH SANAVAD",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0682181,
+        22.1763283
+      ]
+    },
+    {
+      "name": "Shree Sai Hospital sanawad",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.069061,
+        22.1783879
+      ]
+    },
+    {
+      "name": "Raka Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0689556,
+        22.1748728
+      ]
+    },
+    {
+      "name": "Kothi",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.1164406,
+        22.2248152
+      ]
+    },
+    {
+      "name": "Khurgaon",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0965765,
+        22.1821346
+      ]
+    },
+    {
+      "name": "Rajpura",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.117771,
+        22.1911555
+      ]
+    },
+    {
+      "name": "Chhitbori",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.1103265,
+        22.1970418
+      ]
+    },
+    {
+      "name": "Bhogawan",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0871091,
+        22.2075024
+      ]
+    },
+    {
+      "name": "Bilaurabuzurg",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0874235,
+        22.2204004
+      ]
+    },
+    {
+      "name": "Morghari",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0542421,
+        22.2085321
+      ]
+    },
+    {
+      "name": "Mortakka",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0364008,
+        22.1998028
+      ]
+    },
+    {
+      "name": "Kherighat",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.0461051,
+        22.2217718
+      ]
+    },
+    {
+      "name": "Malgaon",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.1485149,
+        22.0936844
+      ]
+    }
+  ],
+  "flooded_roads_km": 960.65,
+  "affected_roads": [
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 70.37,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Mortakka Bridge",
+      "category": "trunk",
+      "flooded_length_km": 0.38,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 14.23,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 50.81,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5001",
+      "category": "secondary",
+      "flooded_length_km": 0.37,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 1.86,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 0.53,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 112.18,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 3.7,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 5.26,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 1.34,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 108.98,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 35.66,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 9.22,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4904",
+      "category": "secondary",
+      "flooded_length_km": 0.42,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4904",
+      "category": "secondary",
+      "flooded_length_km": 5.51,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4904",
+      "category": "secondary",
+      "flooded_length_km": 0.08,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4904",
+      "category": "secondary",
+      "flooded_length_km": 7.68,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4904",
+      "category": "secondary",
+      "flooded_length_km": 2.08,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MD4904",
+      "category": "secondary",
+      "flooded_length_km": 1.62,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MD4904",
+      "category": "secondary",
+      "flooded_length_km": 0.14,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MD4904",
+      "category": "secondary",
+      "flooded_length_km": 0.21,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MD4904",
+      "category": "secondary",
+      "flooded_length_km": 0.12,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MD5001",
+      "category": "secondary",
+      "flooded_length_km": 1.0,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 14.52,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 8.38,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 0.8,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 0.84,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 1.19,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 14.85,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 1.94,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 2.23,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 95.38,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 2.11,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 14.54,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 12.68,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "State Highway 27",
+      "category": "trunk",
+      "flooded_length_km": 0.51,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5001",
+      "category": "secondary",
+      "flooded_length_km": 2.19,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 8.0,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 61.56,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 1.37,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 7.91,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 0.41,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5001",
+      "category": "secondary",
+      "flooded_length_km": 42.54,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5001",
+      "category": "secondary",
+      "flooded_length_km": 0.37,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 0.24,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5001",
+      "category": "secondary",
+      "flooded_length_km": 8.8,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5001",
+      "category": "secondary",
+      "flooded_length_km": 0.26,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.39,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "State Highway 27",
+      "category": "trunk",
+      "flooded_length_km": 0.03,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.13,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.47,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.43,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 4.92,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.45,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.44,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5001",
+      "category": "secondary",
+      "flooded_length_km": 25.0,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5001",
+      "category": "secondary",
+      "flooded_length_km": 0.17,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 0.48,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH36A",
+      "category": "primary",
+      "flooded_length_km": 41.3,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5001",
+      "category": "secondary",
+      "flooded_length_km": 13.15,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5001",
+      "category": "secondary",
+      "flooded_length_km": 0.13,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "State Highway 27",
+      "category": "trunk",
+      "flooded_length_km": 0.47,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 10.34,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "State Highway 27",
+      "category": "trunk",
+      "flooded_length_km": 0.33,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 8.72,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5001",
+      "category": "secondary",
+      "flooded_length_km": 8.5,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 1.37,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.01,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.03,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.02,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.03,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 1.91,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.13,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.12,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 70.59,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 0.94,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 11.2,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 0.32,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 12.99,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 0.33,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 3.87,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "MD4914",
+      "category": "secondary",
+      "flooded_length_km": 0.23,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.04,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.63,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 1.91,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.13,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.34,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH 347BG",
+      "category": "trunk",
+      "flooded_length_km": 0.29,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    }
+  ],
+  "bridges_at_risk": 1,
+  "hospitals_at_risk": 6,
+  "schools_at_risk": 0,
+  "total_estimated_damage_inr_cr": 247.88
+}

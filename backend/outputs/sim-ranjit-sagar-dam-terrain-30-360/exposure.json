@@ -1,0 +1,158 @@
+{
+  "settlements_flooded_count": 5,
+  "total_population_exposed": 6500,
+  "affected_settlements": [
+    {
+      "name": "Sub District Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        75.8032069,
+        32.5119843
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        75.7158851,
+        32.452798
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        75.7055962,
+        32.4535946
+      ]
+    },
+    {
+      "name": "Unknown",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 11250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        75.6994271,
+        32.4444323
+      ]
+    },
+    {
+      "name": "Sandhar",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        75.8522134,
+        32.5493307
+      ]
+    }
+  ],
+  "flooded_roads_km": 418.2,
+  "affected_roads": [
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 47.62,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 79.4,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 0.03,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 58.4,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 182.6,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 0.82,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 27.7,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "secondary",
+      "flooded_length_km": 1.47,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 19.84,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "primary",
+      "flooded_length_km": 0.32,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    }
+  ],
+  "bridges_at_risk": 0,
+  "hospitals_at_risk": 1,
+  "schools_at_risk": 0,
+  "total_estimated_damage_inr_cr": 19.5
+}

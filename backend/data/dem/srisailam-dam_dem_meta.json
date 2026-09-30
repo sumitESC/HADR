@@ -1,0 +1,15 @@
+{
+  "dam_id": "srisailam-dam",
+  "bounds": [
+    78.716,
+    15.671000000000001,
+    79.07600000000001,
+    16.031000000000002
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 15.851,
+  "center_lon": 78.896,
+  "extent_deg": 0.18
+}

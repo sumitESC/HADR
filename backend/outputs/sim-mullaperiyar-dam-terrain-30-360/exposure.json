@@ -1,0 +1,631 @@
+{
+  "settlements_flooded_count": 16,
+  "total_population_exposed": 59978,
+  "affected_settlements": [
+    {
+      "name": "Aalady",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0296295,
+        9.6823337
+      ]
+    },
+    {
+      "name": "K.Chappathu",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0221785,
+        9.6669414
+      ]
+    },
+    {
+      "name": "Parappu",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0259961,
+        9.6932461
+      ]
+    },
+    {
+      "name": "Vasan Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.092255,
+        9.5730253
+      ]
+    },
+    {
+      "name": "Thonithadi",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0333736,
+        9.6963318
+      ]
+    },
+    {
+      "name": "6th Mile",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.010537,
+        9.6692588
+      ]
+    },
+    {
+      "name": "Chenkara",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0748422,
+        9.6456637
+      ]
+    },
+    {
+      "name": "Pranab Hospital",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0920948,
+        9.57354
+      ]
+    },
+    {
+      "name": "Keerikkara",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 5.0,
+      "damage_ratio_pct": 95,
+      "hazard_level": "Catastrophic (Total Destruction)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 712500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0673338,
+        9.6120966
+      ]
+    },
+    {
+      "name": "Mlamala",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0467701,
+        9.6232512
+      ]
+    },
+    {
+      "name": "Vallakkadavu",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.1104184,
+        9.5288902
+      ]
+    },
+    {
+      "name": "Govt: Ayurveda Hospital Mlamala",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0481541,
+        9.6317577
+      ]
+    },
+    {
+      "name": "Community Health Centre Vandiperyar",
+      "type": "hospital",
+      "population": 0,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 0.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0895717,
+        9.5720991
+      ]
+    },
+    {
+      "name": "Vandiperiyar",
+      "type": "town",
+      "population": 22978,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 2757360000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0918879,
+        9.5729206
+      ]
+    },
+    {
+      "name": "Santhipalam",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 26250000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0451858,
+        9.6412333
+      ]
+    },
+    {
+      "name": "Kakki Kavala",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 45000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        77.0970526,
+        9.5778514
+      ]
+    }
+  ],
+  "flooded_roads_km": 719.14,
+  "affected_roads": [
+    {
+      "name": "Kollam-Theni Highway",
+      "category": "trunk",
+      "flooded_length_km": 7.2,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Adoor - Vandiperiyar Highway",
+      "category": "trunk",
+      "flooded_length_km": 34.64,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kumily - Thekkady Road",
+      "category": "tertiary",
+      "flooded_length_km": 1.61,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "NH220",
+      "category": "trunk",
+      "flooded_length_km": 1.4,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kollam-Theni Highway",
+      "category": "trunk",
+      "flooded_length_km": 1.24,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Adoor - Vandiperiyar Highway",
+      "category": "trunk",
+      "flooded_length_km": 0.24,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Adoor - Vandiperiyar Highway",
+      "category": "trunk",
+      "flooded_length_km": 14.41,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Vandiperiyar - Satram Road",
+      "category": "secondary",
+      "flooded_length_km": 8.38,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kollam-Teni Highway",
+      "category": "trunk",
+      "flooded_length_km": 24.21,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Chappath Bridge",
+      "category": "primary",
+      "flooded_length_km": 1.05,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Hill Highway",
+      "category": "primary",
+      "flooded_length_km": 7.72,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Hill Highway",
+      "category": "primary",
+      "flooded_length_km": 29.59,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Ernakulam - Thekkady Road",
+      "category": "primary",
+      "flooded_length_km": 5.14,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Upputhara Bridge",
+      "category": "primary",
+      "flooded_length_km": 1.45,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Chenkara - Santhipalam Road",
+      "category": "tertiary",
+      "flooded_length_km": 29.19,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Chappath - Santhipalam Road",
+      "category": "tertiary",
+      "flooded_length_km": 54.83,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Pullumedu - Chenkara Road",
+      "category": "secondary",
+      "flooded_length_km": 6.09,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Anavilasam - Kallumedu - Chenkara Road",
+      "category": "secondary",
+      "flooded_length_km": 1.55,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Pullumedu - Chenkara Road",
+      "category": "secondary",
+      "flooded_length_km": 3.82,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Vandiperiyar Old Bridge",
+      "category": "trunk_link",
+      "flooded_length_km": 1.34,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH220",
+      "category": "trunk_link",
+      "flooded_length_km": 0.56,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH220",
+      "category": "trunk_link",
+      "flooded_length_km": 0.68,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kollam-Theni Highway",
+      "category": "trunk",
+      "flooded_length_km": 0.71,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kollam-Teni Highway",
+      "category": "trunk",
+      "flooded_length_km": 0.57,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "tertiary",
+      "flooded_length_km": 1.72,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Vandiperiyar - Mlamala - Thengakal Road",
+      "category": "tertiary",
+      "flooded_length_km": 246.52,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Upputhara - Pasuppara Road",
+      "category": "secondary",
+      "flooded_length_km": 0.49,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Hill Highway",
+      "category": "primary",
+      "flooded_length_km": 9.69,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Wallardy - Chenkara Road",
+      "category": "secondary",
+      "flooded_length_km": 16.96,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Santhipalam Bridge",
+      "category": "tertiary",
+      "flooded_length_km": 1.15,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Santipalam Road",
+      "category": "tertiary",
+      "flooded_length_km": 1.06,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "tertiary",
+      "flooded_length_km": 0.68,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "tertiary",
+      "flooded_length_km": 1.33,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "tertiary",
+      "flooded_length_km": 17.14,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Adoor - Vandiperiyar Highway",
+      "category": "trunk",
+      "flooded_length_km": 28.88,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Wallardy - Chenkara Road",
+      "category": "secondary",
+      "flooded_length_km": 19.48,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Vellaramkunnu - Moongalar Road",
+      "category": "secondary",
+      "flooded_length_km": 3.95,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Wallardy - Chenkara Road",
+      "category": "secondary",
+      "flooded_length_km": 18.86,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kallar - Gramby - Sathram - Vandiperiyar Road",
+      "category": "secondary",
+      "flooded_length_km": 1.94,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Ernakulam - Thekkady Road",
+      "category": "primary",
+      "flooded_length_km": 0.21,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Kollam-Theni Highway",
+      "category": "trunk",
+      "flooded_length_km": 0.84,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Kollam-Theni Highway",
+      "category": "trunk",
+      "flooded_length_km": 9.68,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Hill Highway",
+      "category": "primary",
+      "flooded_length_km": 0.44,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Mlamala - Vellaramkunnu Road",
+      "category": "tertiary",
+      "flooded_length_km": 2.35,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Road",
+      "category": "tertiary",
+      "flooded_length_km": 1.29,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Mlamala - Moongalar Bridge",
+      "category": "tertiary",
+      "flooded_length_km": 1.02,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Upputhara - Pasuppara Road",
+      "category": "secondary",
+      "flooded_length_km": 7.91,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Kollam-Theni Highway",
+      "category": "trunk",
+      "flooded_length_km": 1.83,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Hill Highway",
+      "category": "primary",
+      "flooded_length_km": 0.25,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Hill Highway",
+      "category": "primary",
+      "flooded_length_km": 0.03,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "Road",
+      "category": "tertiary",
+      "flooded_length_km": 25.5,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Mlamala - Vellaramkunnu Road",
+      "category": "tertiary",
+      "flooded_length_km": 17.28,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Mlamala - Vellaramkunnu Road",
+      "category": "tertiary",
+      "flooded_length_km": 42.88,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "Moongalar Bridge",
+      "category": "secondary",
+      "flooded_length_km": 0.16,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    }
+  ],
+  "bridges_at_risk": 8,
+  "hospitals_at_risk": 4,
+  "schools_at_risk": 0,
+  "total_estimated_damage_inr_cr": 399.86
+}

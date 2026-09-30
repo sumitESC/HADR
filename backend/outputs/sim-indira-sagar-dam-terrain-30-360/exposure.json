@@ -1,0 +1,560 @@
+{
+  "settlements_flooded_count": 22,
+  "total_population_exposed": 105500,
+  "affected_settlements": [
+    {
+      "name": "Surwariya",
+      "type": "hamlet",
+      "population": 500,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 3750000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.5793115,
+        21.9367554
+      ]
+    },
+    {
+      "name": "Selda",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.6074227,
+        21.9523845
+      ]
+    },
+    {
+      "name": "Rudhi",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.436518,
+        21.8336187
+      ]
+    },
+    {
+      "name": "Bhamgarh",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 5.0,
+      "damage_ratio_pct": 95,
+      "hazard_level": "Catastrophic (Total Destruction)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 712500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4975775,
+        21.8325343
+      ]
+    },
+    {
+      "name": "Bhavsinghpura",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 600000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4954453,
+        21.8379104
+      ]
+    },
+    {
+      "name": "Amalpura",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4934134,
+        21.8424846
+      ]
+    },
+    {
+      "name": "Dharampuri",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.5231276,
+        21.8474507
+      ]
+    },
+    {
+      "name": "Sarai",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 600000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.514535,
+        21.8537835
+      ]
+    },
+    {
+      "name": "Petiyamachhondi",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.5275651,
+        21.8651098
+      ]
+    },
+    {
+      "name": "Banipuri",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.5140475,
+        21.8820717
+      ]
+    },
+    {
+      "name": "Dongri",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 2.0,
+      "damage_ratio_pct": 60,
+      "hazard_level": "High (Building Inundated)",
+      "evacuation_status": "Evacuation Advised",
+      "estimated_loss_inr": 450000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.5232825,
+        21.8947055
+      ]
+    },
+    {
+      "name": "Baidiya",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 5.0,
+      "damage_ratio_pct": 95,
+      "hazard_level": "Catastrophic (Total Destruction)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 712500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4361991,
+        21.7976627
+      ]
+    },
+    {
+      "name": "Jaswari",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 5.0,
+      "damage_ratio_pct": 95,
+      "hazard_level": "Catastrophic (Total Destruction)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 712500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.430577,
+        21.7931431
+      ]
+    },
+    {
+      "name": "Diplan",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 5.0,
+      "damage_ratio_pct": 95,
+      "hazard_level": "Catastrophic (Total Destruction)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 712500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4225037,
+        21.7546358
+      ]
+    },
+    {
+      "name": "Haplan",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 5.0,
+      "damage_ratio_pct": 95,
+      "hazard_level": "Catastrophic (Total Destruction)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 712500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4199433,
+        21.7530048
+      ]
+    },
+    {
+      "name": "Khirgaon",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 5.0,
+      "damage_ratio_pct": 95,
+      "hazard_level": "Catastrophic (Total Destruction)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 712500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4189956,
+        21.7280652
+      ]
+    },
+    {
+      "name": "Badgaon",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 3.0,
+      "damage_ratio_pct": 80,
+      "hazard_level": "Severe (Major Structural Loss)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 600000000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4071045,
+        21.6994444
+      ]
+    },
+    {
+      "name": "Ardalan Kalan",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 5.0,
+      "damage_ratio_pct": 95,
+      "hazard_level": "Catastrophic (Total Destruction)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 712500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4040884,
+        21.7043968
+      ]
+    },
+    {
+      "name": "Sarola",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 5.0,
+      "damage_ratio_pct": 95,
+      "hazard_level": "Catastrophic (Total Destruction)",
+      "evacuation_status": "Mandatory Evacuation",
+      "estimated_loss_inr": 712500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.3774084,
+        21.6924919
+      ]
+    },
+    {
+      "name": "Bihar",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 1.0,
+      "damage_ratio_pct": 35,
+      "hazard_level": "Moderate (Ground Floor Flooded)",
+      "evacuation_status": "High Alert",
+      "estimated_loss_inr": 262500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.3845067,
+        21.6705275
+      ]
+    },
+    {
+      "name": "Itwa",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.5,
+      "damage_ratio_pct": 15,
+      "hazard_level": "Low (Water Ingress)",
+      "evacuation_status": "Watch / Warning",
+      "estimated_loss_inr": 112500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.4030451,
+        21.679972
+      ]
+    },
+    {
+      "name": "Takli Kalan",
+      "type": "village",
+      "population": 5000,
+      "water_depth_m": 0.1,
+      "damage_ratio_pct": 5,
+      "hazard_level": "Minor Logging",
+      "evacuation_status": "Monitored",
+      "estimated_loss_inr": 37500000.0,
+      "elevation_m": 0,
+      "coordinates": [
+        76.3546831,
+        21.6753432
+      ]
+    }
+  ],
+  "flooded_roads_km": 744.4,
+  "affected_roads": [
+    {
+      "name": "NH347B",
+      "category": "trunk",
+      "flooded_length_km": 32.02,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH70",
+      "category": "primary",
+      "flooded_length_km": 64.43,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH70",
+      "category": "primary",
+      "flooded_length_km": 91.7,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH70",
+      "category": "primary",
+      "flooded_length_km": 235.34,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH347B",
+      "category": "trunk",
+      "flooded_length_km": 36.18,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH347B",
+      "category": "trunk",
+      "flooded_length_km": 6.11,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH70",
+      "category": "primary",
+      "flooded_length_km": 3.42,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH70",
+      "category": "primary",
+      "flooded_length_km": 22.18,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH70",
+      "category": "primary",
+      "flooded_length_km": 24.21,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5017",
+      "category": "secondary",
+      "flooded_length_km": 0.39,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5017",
+      "category": "secondary",
+      "flooded_length_km": 1.93,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5007",
+      "category": "secondary",
+      "flooded_length_km": 8.84,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5007",
+      "category": "secondary",
+      "flooded_length_km": 43.33,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5007",
+      "category": "secondary",
+      "flooded_length_km": 39.44,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH70",
+      "category": "primary",
+      "flooded_length_km": 12.53,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5014",
+      "category": "secondary",
+      "flooded_length_km": 0.24,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5014",
+      "category": "secondary",
+      "flooded_length_km": 9.04,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5014",
+      "category": "secondary",
+      "flooded_length_km": 8.01,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5014",
+      "category": "secondary",
+      "flooded_length_km": 0.42,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH70",
+      "category": "primary",
+      "flooded_length_km": 12.13,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH70",
+      "category": "primary",
+      "flooded_length_km": 7.14,
+      "max_water_depth_m": 3.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH347B",
+      "category": "trunk",
+      "flooded_length_km": 22.83,
+      "max_water_depth_m": 5.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH347B",
+      "category": "trunk",
+      "flooded_length_km": 13.41,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH71",
+      "category": "trunk",
+      "flooded_length_km": 0.46,
+      "max_water_depth_m": 1.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5014",
+      "category": "secondary",
+      "flooded_length_km": 3.13,
+      "max_water_depth_m": 0.5,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "MD5017",
+      "category": "secondary",
+      "flooded_length_km": 7.54,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "NH347B",
+      "category": "trunk",
+      "flooded_length_km": 35.33,
+      "max_water_depth_m": 2.0,
+      "traffic_status": "Impassable / Closed"
+    },
+    {
+      "name": "SH71",
+      "category": "trunk",
+      "flooded_length_km": 0.09,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SH71",
+      "category": "trunk",
+      "flooded_length_km": 1.09,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SH71",
+      "category": "trunk",
+      "flooded_length_km": 0.1,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    },
+    {
+      "name": "SH71",
+      "category": "trunk",
+      "flooded_length_km": 1.39,
+      "max_water_depth_m": 0.1,
+      "traffic_status": "Drive with Caution"
+    }
+  ],
+  "bridges_at_risk": 0,
+  "hospitals_at_risk": 0,
+  "schools_at_risk": 0,
+  "total_estimated_damage_inr_cr": 937.88
+}

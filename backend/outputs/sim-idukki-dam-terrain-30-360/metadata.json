@@ -1,0 +1,40 @@
+{
+  "simulation_id": "sim-idukki-dam-terrain-30-360",
+  "status": "completed",
+  "engine": "terrain",
+  "engine_name": "Physics-Based Terrain Flood Propagation Engine",
+  "dam_id": "idukki-dam",
+  "dam_name": "Idukki Dam",
+  "dam_state": "Kerala",
+  "dam_river": "Periyar",
+  "dam_lat": 9.841,
+  "dam_lon": 76.9715,
+  "dam_height_m": 168.9,
+  "release_percent": 30.0,
+  "duration_min": 360.0,
+  "time_step_min": 30,
+  "timesteps_min": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180,
+    210,
+    240,
+    270,
+    300,
+    330,
+    360
+  ],
+  "max_depth_m": 20.0,
+  "inundated_area_km2": 2.24,
+  "hydrograph": {
+    "q_peak_m3s": 12263.24,
+    "total_volume_m3": 132443005.93,
+    "effective_breach_width_m": 20.0,
+    "eff_height_m": 50.7,
+    "duration_sec": 21600.0
+  }
+}

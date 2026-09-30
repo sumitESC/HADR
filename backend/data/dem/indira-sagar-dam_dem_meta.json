@@ -1,0 +1,15 @@
+{
+  "dam_id": "indira-sagar-dam",
+  "bounds": [
+    76.28699999999999,
+    22.105,
+    76.647,
+    22.465
+  ],
+  "crs": "EPSG:4326",
+  "grid_size": 80,
+  "source": "Open-Meteo Elevation API (SRTM30)",
+  "center_lat": 22.285,
+  "center_lon": 76.467,
+  "extent_deg": 0.18
+}
