@@ -1,0 +1,40 @@
+{
+  "simulation_id": "sim-60bbcfd4",
+  "status": "completed",
+  "engine": "terrain",
+  "engine_name": "Physics-Based Terrain Flood Propagation Engine",
+  "dam_id": "tungabhadra-dam",
+  "dam_name": "Tungabhadra Dam",
+  "dam_state": "Karnataka",
+  "dam_river": "Tungabhadra",
+  "dam_lat": 15.267,
+  "dam_lon": 76.34,
+  "dam_height_m": 49.4,
+  "release_percent": 30.0,
+  "duration_min": 360.0,
+  "time_step_min": 30,
+  "timesteps_min": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180,
+    210,
+    240,
+    270,
+    300,
+    330,
+    360
+  ],
+  "max_depth_m": 14.3,
+  "inundated_area_km2": 2.2,
+  "hydrograph": {
+    "q_peak_m3s": 1939.77,
+    "total_volume_m3": 20949563.47,
+    "effective_breach_width_m": 20.0,
+    "eff_height_m": 14.8,
+    "duration_sec": 21600.0
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "simulation_id": "test-physics-2",
+  "status": "completed",
+  "engine": "terrain",
+  "engine_name": "Physics-Based Terrain Flood Propagation Engine",
+  "dam_id": "hoover-dam",
+  "dam_name": "Hoover Dam",
+  "dam_state": "Nevada/Arizona",
+  "dam_river": "Colorado",
+  "dam_lat": 36.0156,
+  "dam_lon": -114.7378,
+  "dam_height_m": 221.4,
+  "release_percent": 50.0,
+  "duration_min": 120.0,
+  "time_step_min": 60,
+  "timesteps_min": [
+    0,
+    60,
+    120
+  ],
+  "max_depth_m": 96.2,
+  "inundated_area_km2": 9.85,
+  "hydrograph": {
+    "q_peak_m3s": 39600.47,
+    "total_volume_m3": 142561694.61,
+    "effective_breach_width_m": 20.0,
+    "eff_height_m": 110.7,
+    "duration_sec": 7200.0
+  }
+}

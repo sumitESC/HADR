@@ -1,0 +1,33 @@
+{
+  "simulation_id": "sim-a8e81906",
+  "status": "completed",
+  "engine": "terrain",
+  "engine_name": "Terrain-Based Flood Propagation Engine",
+  "dam_id": "tehri-dam",
+  "dam_name": "Tehri Dam",
+  "release_percent": 30.0,
+  "duration_min": 360.0,
+  "time_step_min": 30,
+  "timesteps_min": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180,
+    210,
+    240,
+    270,
+    300,
+    330,
+    360
+  ],
+  "max_depth_m": 24.3,
+  "inundated_area_km2": 46.94,
+  "hydrograph": {
+    "q_peak_m3s": 215550.02,
+    "total_volume_m3": 2327940216.35,
+    "effective_breach_width_m": 195.0
+  }
+}

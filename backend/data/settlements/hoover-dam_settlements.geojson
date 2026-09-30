@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Henderson",
+        "type": "city",
+        "population": 350039,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9815488,
+          36.0301388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boulder City",
+        "type": "town",
+        "population": 15029,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8337574,
+          35.9787649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whitney",
+        "type": "town",
+        "population": 49061,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0460304,
+          36.0968906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christian Center Schools",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8325173,
+          35.9782873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Mead Christian Academy",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.832631,
+          35.9788308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community College of Southern Nevada Henderson Campus",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9652778,
+          36.0079281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community College South Henderson High School",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9652936,
+          36.0082596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boulder City Fire Station Number 1",
+        "type": "fire_station",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.84693,
+          35.97132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basic High School \"B\"",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9253889,
+          36.0452502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willow Beach",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6600654,
+          35.8697801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Callville Bay",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.725269,
+          36.1414836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dance & Aerial Addiction",
+        "type": "dancing_school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9583938,
+          36.0150248
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Tehri Town",
+        "type": "settlement",
+        "population": 25400,
+        "elevation_m": 780
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.472,
+          30.375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koteshwar Village",
+        "type": "settlement",
+        "population": 4200,
+        "elevation_m": 540
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.525,
+          30.291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhagirathipuram",
+        "type": "settlement",
+        "population": 8100,
+        "elevation_m": 610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.491,
+          30.352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dobra Chanti Bridge",
+        "type": "bridge",
+        "population": 0,
+        "elevation_m": 650
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.442,
+          30.412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devprayag Junction",
+        "type": "settlement",
+        "population": 12500,
+        "elevation_m": 460
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.595,
+          30.146
+        ]
+      }
+    }
+  ]
+}

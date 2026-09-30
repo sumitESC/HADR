@@ -1,0 +1,40 @@
+{
+  "simulation_id": "sim-6fe66941",
+  "status": "completed",
+  "engine": "terrain",
+  "engine_name": "Physics-Based Terrain Flood Propagation Engine",
+  "dam_id": "baglihar-dam",
+  "dam_name": "Baglihar Dam",
+  "dam_state": "Jammu & Kashmir",
+  "dam_river": "Chenab",
+  "dam_lat": 33.12,
+  "dam_lon": 75.66,
+  "dam_height_m": 143.0,
+  "release_percent": 30.0,
+  "duration_min": 360.0,
+  "time_step_min": 30,
+  "timesteps_min": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180,
+    210,
+    240,
+    270,
+    300,
+    330,
+    360
+  ],
+  "max_depth_m": 20.0,
+  "inundated_area_km2": 4.45,
+  "hydrograph": {
+    "q_peak_m3s": 9553.55,
+    "total_volume_m3": 103178357.68,
+    "effective_breach_width_m": 20.0,
+    "eff_height_m": 42.9,
+    "duration_sec": 21600.0
+  }
+}

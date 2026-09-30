@@ -1,0 +1,3898 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rentachintala",
+        "type": "village",
+        "population": 16523,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5528824,
+          16.5523765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pedda Voora",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2082537,
+          16.7291427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nidamanoor",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3651133,
+          16.8215148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vijayapuri",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3123747,
+          16.5603673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vijayapuri North",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3207113,
+          16.5857016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hill Colony",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3035951,
+          16.6076981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macherla",
+        "type": "town",
+        "population": 57290,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4366404,
+          16.4764279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manchikallu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5297333,
+          16.5000958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chalakurthy",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2684478,
+          16.6952035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rayavaram",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4695401,
+          16.4576218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kothapalle",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3992555,
+          16.4825717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinnivaripalem",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.382025,
+          16.5368227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lachchambavi",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3092942,
+          16.4374024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alugurajupalle",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3470704,
+          16.4814297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kothur",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3605244,
+          16.5420783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matukumalli",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4723832,
+          16.5220631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mallavaram",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4736278,
+          16.6015254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasarlapadu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5177126,
+          16.5707707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goli",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5212017,
+          16.5891797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samadhanampeta",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5457363,
+          16.6221492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gottinukala",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5668185,
+          16.6391936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dharmavaram",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5527959,
+          16.4366203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shyamarajpuram",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5671189,
+          16.4841355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madugula",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5745218,
+          16.5003999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhairavunipadu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3890953,
+          16.5032082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bodanampadu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.319787,
+          16.5194196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagulavaram",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3062311,
+          16.5103112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paluvoi",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4970274,
+          16.5431171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mittagudipadu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5386875,
+          16.5706576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tallapalli",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3952966,
+          16.5147806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dwarakapuri",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3676269,
+          16.4686002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koppunur",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3317711,
+          16.4864502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bellam Kondavari Palem",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3044984,
+          16.5008937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jammigadda",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2912269,
+          16.5269077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chintala Thanda",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2867851,
+          16.5264242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amanizammala Madka",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.436388,
+          16.5102443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gannavaram",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4712353,
+          16.5244185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lingapuram",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4290441,
+          16.4982756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rekularam Thanda",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3407726,
+          16.4520552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tummurukota",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4582856,
+          16.558523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasuvemula",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3630403,
+          16.5209008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kambhampadu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4882512,
+          16.5031877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subbareddy Palem",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3219757,
+          16.5144926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jettipalem",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4989157,
+          16.599829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalagutta",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5074236,
+          16.4000037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kancharaguntla",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4819426,
+          16.3953926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atmakur",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5017803,
+          16.4269882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Potepalle",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4839919,
+          16.4272044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandadi",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4045234,
+          16.4088343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rentala",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5642784,
+          16.5291701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vijayapuri South",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3128553,
+          16.5641131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ekunampet",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.38756,
+          16.5759281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ethipothala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4047884,
+          16.5369966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kotturu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4500505,
+          16.5789782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hasanabath Tanda",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3464631,
+          16.4972926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Javuk Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3296993,
+          16.5350435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anupu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2859061,
+          16.5052499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Achchammagunta",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2796025,
+          16.4433289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kandlagunta",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2931106,
+          16.3878061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kothapullareddypuram",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2559816,
+          16.3999055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gudipati Cheruvu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3034786,
+          16.4059746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rachamllepadu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3759497,
+          16.422846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terla",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4396692,
+          16.4156226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marasapenta",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2736629,
+          16.353764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gottipalla",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2979941,
+          16.3333275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gangulagunta",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2884026,
+          16.3162278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mittamidipalle",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3279636,
+          16.3067518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shrirampuram Thanda",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3501298,
+          16.4026226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gundlapadu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3415194,
+          16.3642883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veldurthi",
+        "type": "village",
+        "population": 4552,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3676884,
+          16.3488106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uppalapadu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4002711,
+          16.3539768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bodilavidu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3524345,
+          16.3816648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patlaveedu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4433078,
+          16.3899992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mutukuru",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4665017,
+          16.3821253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erlapalem",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4478537,
+          16.3853269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Durgi",
+        "type": "village",
+        "population": 9480,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5431139,
+          16.4232437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gandhi Nagar",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4898935,
+          16.7131211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tatichettu Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5021325,
+          16.7148114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indira Nagar",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4966415,
+          16.7057781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chintalachettu Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4627011,
+          16.6933192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thimmai Palem",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4286923,
+          16.6180193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saregudem",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4251437,
+          16.6345537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nadigadda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.44438,
+          16.6238787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nallamitta Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4258279,
+          16.640266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jala Koti Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4335522,
+          16.6218183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ravulagadda Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4374848,
+          16.6360352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nayakuni Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4335345,
+          16.6130845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mulka Charla",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4594265,
+          16.6774673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kothanandi Konda",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4818449,
+          16.6804479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangarigunta Thanda",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4532815,
+          16.6825018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balaji Thanda",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4607336,
+          16.6723556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamu Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4997275,
+          16.6725004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jilakula Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5003488,
+          16.6707432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Champla Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5045695,
+          16.6804953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dudya Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4960406,
+          16.6786561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gonya Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5096067,
+          16.6779503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vasram Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5022484,
+          16.6822333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chityala",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4669286,
+          16.6278188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baleen Palli",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4673588,
+          16.6551893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adavi Devula Palli",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5134933,
+          16.6627222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vadderagudem",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5233427,
+          16.6572412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sath Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5611429,
+          16.6921311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veerla Palem",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5425364,
+          16.69449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dubba Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5548885,
+          16.6961726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mudimanikam",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5617249,
+          16.6475881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0490556,
+          16.4982139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0489966,
+          16.4854574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.059948,
+          16.4640165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0721816,
+          16.4701435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0720394,
+          16.4835748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0688825,
+          16.4901949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3176547,
+          16.5306901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chenchu Colony",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2928462,
+          16.5029148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1960621,
+          16.6597311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1980576,
+          16.6497812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1813528,
+          16.6316687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1530394,
+          16.6143976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.162631,
+          16.6217175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1742718,
+          16.6344546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1858107,
+          16.65287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1860789,
+          16.6555836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keecha Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4206676,
+          16.6813147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thuniki Nuthula",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3862199,
+          16.6629996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garkanattu Thanda",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4259166,
+          16.6764843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3948459,
+          16.6096272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3853938,
+          16.5918194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3526602,
+          16.5863492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.265542,
+          16.317833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3607256,
+          16.5264217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1451162,
+          16.6142125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulshaya Palem",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5145154,
+          16.7168709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kothapaluvoi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5032287,
+          16.5411835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marthivanigudem",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4364827,
+          16.8093725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indlakotiahgudem",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4488752,
+          16.8092624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tummadam",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.435748,
+          16.7982239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narammagudem",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4441663,
+          16.772266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vadderigudem",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4235866,
+          16.7829942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuntigorlagudem",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4102039,
+          16.7771818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marlagadda Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4027457,
+          16.7678814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marlagadda Camp",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4016861,
+          16.7819092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kottala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3897684,
+          16.7539935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surepalle",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3977757,
+          16.7455621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anjana Palle",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4776066,
+          16.7638872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neelaiahgudem",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4737549,
+          16.7704694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matur",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5110178,
+          16.7583019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donka Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5209059,
+          16.7441965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kukudu Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5214895,
+          16.7385043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Padmati Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5355262,
+          16.7357543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ragadapa",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5088596,
+          16.7393663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dubba Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4988349,
+          16.777128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laxmipuram",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3499841,
+          16.7008214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rangundla Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.335909,
+          16.7003828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tirumalagiri",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3363612,
+          16.7220899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rangunla",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3343439,
+          16.70365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badaigadda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3276446,
+          16.7258073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pashamvariguda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3304703,
+          16.7008944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashok Nagar",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3903283,
+          16.708914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boya Guda",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3991462,
+          16.7265256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kompalli",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3672613,
+          16.716309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anjaneyulu Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3625552,
+          16.7436087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silgapur",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3608728,
+          16.7334484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanjeevi Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3818948,
+          16.7396147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veerlagadda Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3837198,
+          16.742216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pullareddy Guda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3673784,
+          16.7458852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bojya Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4546217,
+          16.7288815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Megya Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4407992,
+          16.7320539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nehatapur",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4233814,
+          16.725663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seethla Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4281244,
+          16.7305396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shanthinagar",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4217019,
+          16.7218825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yerragattu Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4041786,
+          16.6967147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dokkalabavi Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4248376,
+          16.6974705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narayanpur",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4111274,
+          16.7060069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juvvichettu Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4245441,
+          16.6871024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajavaram",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.415242,
+          16.7078599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gangadevi Peta",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.515261,
+          16.7108939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banjara Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5179034,
+          16.6949641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalvakatta",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.518249,
+          16.7053898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapuvarigudem",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4727971,
+          16.7311569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yepalagudem",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4651741,
+          16.7336408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lachya Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4869159,
+          16.7304816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metya Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5008325,
+          16.726447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palgu Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5120876,
+          16.7259859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panugothu Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5083342,
+          16.7317014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badaigadda",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5213082,
+          16.7324683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puttalagadda Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5330031,
+          16.7198846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangari Gadda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5196895,
+          16.7215708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chekolam Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3481153,
+          16.6672462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gath Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3229413,
+          16.6780085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thootpet Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3188679,
+          16.6813529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yellapur",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.354867,
+          16.6941303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yellapur Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3531009,
+          16.6871687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunkishla (Sm)",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3759118,
+          16.6822829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunkishala Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3730773,
+          16.6839474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pilligundla Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3398646,
+          16.6540092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yerracheruvu Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3130254,
+          16.6494052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nellikal",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3337032,
+          16.641784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jal Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3442564,
+          16.6352514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nellamla Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3345251,
+          16.6340957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chenchani Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3289137,
+          16.6262893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagarjuna Peta",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3451369,
+          16.6005002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chennaipalem",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3981185,
+          16.6389065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Godumadka",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3676445,
+          16.636312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B.V.Bavi Thanda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3737467,
+          16.6300215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sricharan Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3020851,
+          16.6063874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sai Baba Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3190011,
+          16.7755669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamalanehru Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3054858,
+          16.6031639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GOVT. HOSPITAL, HILL COLONY",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.30635,
+          16.6037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govt Veterinary Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3027558,
+          16.6104082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahalya Nursing Home",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.32902,
+          16.78522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adithya Care Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3250571,
+          16.77995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Governent Hospital ,Macherla",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.435603,
+          16.4771893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peda Adisharla Palli",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0675521,
+          16.6852406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anumula",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.301505,
+          16.784163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prameela Dantha Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.439589,
+          16.477934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narasimha Murthy Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4387506,
+          16.4770796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harini Multi Speciality Dental Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.542226,
+          16.424478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chandamama Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4365502,
+          16.47693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pradhamika Patashala",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3543605,
+          16.7838907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government Hospital, Koppunur",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3356912,
+          16.4860528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govt. School Ground",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0695581,
+          16.6875993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St marry school ground",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0676333,
+          16.6894923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Play ground",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0670094,
+          16.6910953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dugyala",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0946836,
+          16.6807024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Venkata Ramana Clinic",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3245735,
+          16.7806178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KGBV  School",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5347912,
+          16.4282932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Paluvayi",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5046234,
+          16.5211374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area Hospital,  Nagarjuna Sagar",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3193579,
+          16.5837786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chandamama hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4365176,
+          16.4769674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paluvai Junction",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5188594,
+          16.5457954
+        ]
+      }
+    }
+  ]
+}

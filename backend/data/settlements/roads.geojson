@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NH-34 Highway Segment 1",
+        "category": "national_highway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.43,
+            30.44
+          ],
+          [
+            78.47,
+            30.38
+          ],
+          [
+            78.51,
+            30.31
+          ],
+          [
+            78.58,
+            30.2
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tehri Bypass Road",
+        "category": "state_highway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.45,
+            30.39
+          ],
+          [
+            78.48,
+            30.36
+          ],
+          [
+            78.53,
+            30.28
+          ]
+        ]
+      }
+    }
+  ]
+}

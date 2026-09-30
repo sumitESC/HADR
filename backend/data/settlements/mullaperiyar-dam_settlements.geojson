@@ -1,0 +1,6414 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mundakkayam",
+        "type": "town",
+        "population": 25000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8855086,
+          9.5368168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cumbum",
+        "type": "town",
+        "population": 25000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2853013,
+          9.7394057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peermade",
+        "type": "town",
+        "population": 25000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9958988,
+          9.5720149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pambanar",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0252706,
+          9.5753722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pamba",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0676502,
+          9.4161025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thulappally",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9638305,
+          9.4208998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gudalur",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2436946,
+          9.6793174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gavi",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1594717,
+          9.4357292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thekkady",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.181142,
+          9.5804995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6th Mile",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1649081,
+          9.6478224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anakkara",
+        "type": "town",
+        "population": 25000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1580992,
+          9.6646996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puttady",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1617582,
+          9.6967479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peruvanthanam",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9268244,
+          9.5528013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kumily",
+        "type": "town",
+        "population": 25000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1671018,
+          9.6067952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Jerome's LPS Vellayamkudy",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1011145,
+          9.7690738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kattappana",
+        "type": "town",
+        "population": 25000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1140611,
+          9.7561717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. John's Hospital Ward 20",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.109715,
+          9.7470133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angamoozhy",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9880378,
+          9.3584876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolahalamedu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9198143,
+          9.6612239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elappara",
+        "type": "town",
+        "population": 25000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9784714,
+          9.6306232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuttikkanam",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.970999,
+          9.5823102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madukka",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9402646,
+          9.4896125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kombukuthy",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9692168,
+          9.490871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayurveda Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0820676,
+          9.4326993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cardiology Centre",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0824873,
+          9.4329586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govt. Dispensary",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0824233,
+          9.4331961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govt Ayruvedha Hospital Thulappally",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9611466,
+          9.4206653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plappally",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9654525,
+          9.3924303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attathodu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0158623,
+          9.405472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aarattukayam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9519626,
+          9.4213587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuzhimavu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9569088,
+          9.4590687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sree Ayyappa Medical Centre",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0691961,
+          9.4130599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panakkachira",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9260084,
+          9.5017532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vandanpathal",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9011986,
+          9.5221984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naranamthodu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.976472,
+          9.409249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chaithanya Clinic",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9647794,
+          9.4179592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanamala",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9350464,
+          9.4216811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makkal Kavala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9231075,
+          9.429231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elyvalikkara",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8843642,
+          9.4591703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eruthuvapuzha",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9203419,
+          9.4319387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muttappally",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.894108,
+          9.4449096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panapilavu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9084277,
+          9.4392306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amaravathi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8882797,
+          9.5128438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chembankulam Homeo Clinic",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8862156,
+          9.534461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sathram",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0866091,
+          9.512098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garden Estate Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.066144,
+          9.5380381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aalady",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0296295,
+          9.6823337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K.Chappathu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0221785,
+          9.6669414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Memala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9691431,
+          9.6132058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4th Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9942764,
+          9.6598288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pallikunnu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9682541,
+          9.5983116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parappu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0259961,
+          9.6932461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Labbakada",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0625022,
+          9.7379997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thoppipala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.055531,
+          9.7379835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govt Ayurvedha Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.055401,
+          9.57598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govt LP School",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0561828,
+          9.5748713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muthuplackal Homeo Clinic",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9954883,
+          9.572363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fire and Rescue Station, Perumade",
+        "type": "fire_station",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9920458,
+          9.5754439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sevanalaya Clinic",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0219482,
+          9.5771629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thattathikanam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9783568,
+          9.5816442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vasan Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.092255,
+          9.5730253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irupathekkar",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1014328,
+          9.7443003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kakkattukada",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0853393,
+          9.7499301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primary Health Centre (PHC)",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1017149,
+          9.7454509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Augestian Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1465936,
+          9.6073413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "64th Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1395552,
+          9.6033607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "66th Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1451095,
+          9.6080723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Companipadi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1406674,
+          9.7508376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puliyanmala",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1518035,
+          9.7522533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aamayar",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1590985,
+          9.7292485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AKG Padi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1631605,
+          9.6318587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Achakada",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2104559,
+          9.7416574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government Higher Secondary School Amaravathy",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.160362,
+          9.6203852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govt HSS Kumily",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1667483,
+          9.6092103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hyda Ayurvedic Speciality Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1586862,
+          9.6160268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kadassikadavu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1453579,
+          9.6845858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mangaladevi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1474879,
+          9.6886595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moongippallam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2171486,
+          9.7304064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shankurundan",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1522887,
+          9.6912988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sulthankada",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1504191,
+          9.6724097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Usha Clinic",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1591462,
+          9.6195004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3rd Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1638268,
+          9.6355523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4th Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1716423,
+          9.636761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5th Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1657271,
+          9.6415443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CMC Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9702033,
+          9.5804204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaduvapara",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9636811,
+          9.5556287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murinjapuzha",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9718368,
+          9.5542569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vedikkuzhi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9275551,
+          9.6534773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "40th Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9391908,
+          9.5566435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Public health centre, Elappara",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9794533,
+          9.6323983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parunthumpara",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0310264,
+          9.5503073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moolakkayam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9767834,
+          9.4232485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kissumam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9872148,
+          9.4215129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vattappara",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9441116,
+          9.4181397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandhirampadi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9716945,
+          9.4125873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meppara",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0761818,
+          9.7161708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swarnavilasam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0798895,
+          9.726156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mookkenpetty",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9401486,
+          9.4329899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanchiyar",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0753253,
+          9.7452995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nathukallu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1080735,
+          9.7861448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cumbummettu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2185659,
+          9.7470303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kottamonpara",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9745131,
+          9.348308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valacode",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9756931,
+          9.7191579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aanavilasam",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0967593,
+          9.6636071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vellaramkunnu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1084538,
+          9.6348372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sasthanada",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1088616,
+          9.678408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vallakkadavu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1044796,
+          9.733137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kadamakkuzhi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0999629,
+          9.7138944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kozhimala",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0241881,
+          9.7352735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valupara",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9833923,
+          9.3465772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aliyanmukku",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9889151,
+          9.3392737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seethathodu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.969719,
+          9.3251972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thonithadi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0333736,
+          9.6963318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villagepadi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0453726,
+          9.7052965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thovarayar",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0955484,
+          9.7480754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panchalimedu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.973173,
+          9.5302732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erumbadam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9951303,
+          9.6625728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karintharuvi",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00318,
+          9.6657874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6th Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.010537,
+          9.6692588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moonnukallu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9619713,
+          9.3315771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kochukoickal",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9785265,
+          9.3312596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalaketty",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.939534,
+          9.4427638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umikuppa",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9173994,
+          9.426786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kumarikulam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9621621,
+          9.7168178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mattuthavalam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9990608,
+          9.7128702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mathaippara",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9857348,
+          9.7126152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalthotty",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0602318,
+          9.7216972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vengaloorkkada",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0742427,
+          9.7309832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Mattukkatta",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0563977,
+          9.7055094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pullumedu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.05886,
+          9.6673194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sulthaniya",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0589728,
+          9.6825693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pampadumpara",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1599617,
+          9.7988383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kochuthovala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1280054,
+          9.7733805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vettikuzhikavala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1110052,
+          9.7713587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chellarkovil",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.182972,
+          9.6705551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pathumuri",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1282219,
+          9.6410306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vandanmedu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1545376,
+          9.7230717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mookethakada",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0739901,
+          9.7068106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chenkara",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0748422,
+          9.6456637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cumbum government general hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2802565,
+          9.730261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valiyathovala",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1267928,
+          9.7963137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9774296,
+          9.6348435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mary matha public school,chakkupallam",
+        "type": "language_school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1551826,
+          9.6453197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primary Health Centre Kumily",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1627166,
+          9.6059027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saro Hospital Kattapana",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1160077,
+          9.7586304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Health Centre Vandenmedu",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1620451,
+          9.6977943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Health Centre, Koottickal",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8855683,
+          9.5850298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government Hospital, Gudalur",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.240587,
+          9.67647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government Hospital, Kamayakoundanpatti",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.316911,
+          9.737068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rohan Sekar Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.285558,
+          9.729667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government General Hospital, Mundakayam",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8836271,
+          9.5368485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "driving_school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.87473,
+          9.5470742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamayagoundanpatti",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3202753,
+          9.7381164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palakkada",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0713918,
+          9.7454302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harmony Orchestra",
+        "type": "music_school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1089594,
+          9.7524367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0257962,
+          9.5771606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palliative Care Peermade",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9938589,
+          9.5730894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primary Health centre Puttady",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1620588,
+          9.6970354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9709294,
+          9.582778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vetinaey Hospital Pambanar",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.025504,
+          9.5759795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palamattom Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1154823,
+          9.7527597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karunya Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9781445,
+          9.6310571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primary Health Centre, Peruvanthanam",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9261696,
+          9.5527601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VGMS Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0825159,
+          9.6222775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chempenkulam Ayurvedic Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.142984,
+          9.62912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9779655,
+          9.6322228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jyothis Ayurveda Hospital Kattappana",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1163561,
+          9.7509534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pranab Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0920948,
+          9.57354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lifeblooms Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.162168,
+          9.705546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Usha Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1618789,
+          9.6239673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinnar Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9838548,
+          9.6580617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amrita Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.069144,
+          9.413108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06761,
+          9.416252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Vision Eye Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8867104,
+          9.5370226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalapurackal Ayurveda Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8879558,
+          9.5363278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peoples Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8826989,
+          9.5389051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karuna Bhavan Medical Center, Pallippady",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9568107,
+          9.4762787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "T R & Tea Company Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.959822,
+          9.50365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omkhar Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2840282,
+          9.734092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kumaran Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28538,
+          9.736183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cumbum Joints and Spine Speciality Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.283291,
+          9.735448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karthik Children's Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.281793,
+          9.735268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shiva Naturopathy Yoga & Homoeopathy Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.282585,
+          9.742457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Vijaya Lakshmi Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.285691,
+          9.732158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaya Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.284149,
+          9.7333812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manivannan Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.285268,
+          9.735575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Anand Ortho Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.285438,
+          9.733346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saleema Children's Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2788663,
+          9.7399159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fathima Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.282231,
+          9.736056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government General Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.280955,
+          9.731135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apm Sidha Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2827277,
+          9.7373278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thirumoolar Siddha Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28358,
+          9.73543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amutha Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2840878,
+          9.7356085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhagya Nursing Home",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2841777,
+          9.7334942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "APM Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.282148,
+          9.736602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhivya Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.282507,
+          9.737191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navajothi Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.281772,
+          9.734979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soundaiyan Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2465472,
+          9.6803815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhenu Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.245534,
+          9.681052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sri Sai Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.318491,
+          9.739328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Primary School Mathampa",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9624907,
+          9.5119021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasuppara",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9691741,
+          9.6891752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinnar",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9874014,
+          9.6510653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kochukarimtharuvi",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9568576,
+          9.6677814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kappipathal",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9660049,
+          9.6772716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonami",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9550506,
+          9.6345811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chemmannu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9710219,
+          9.6457193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koottar",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2063901,
+          9.7793426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santhipuram",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2155866,
+          9.7735148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karunapuram",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2165914,
+          9.765542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuzhitholu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1987825,
+          9.7550841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valliyamthadam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1052844,
+          9.6543804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kattadikavala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9774517,
+          9.6760557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puthukkada",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9978936,
+          9.6832422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1st Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9812451,
+          9.6419086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kochera",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1913974,
+          9.7052345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manthipara",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2069527,
+          9.7244511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anyartholu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1760409,
+          9.7631388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chakkupallam",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1485886,
+          9.6485673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murickady",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.137906,
+          9.617262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karuvakulam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.122228,
+          9.7051197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kozhikkanam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9929854,
+          9.6332583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haileyburia",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0180613,
+          9.6459307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thengakal",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0279778,
+          9.6313229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keerikkara",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0673338,
+          9.6120966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mlamala",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0467701,
+          9.6232512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vellimala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.160133,
+          9.7124031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uppukulam",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9429682,
+          9.6187219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "35th Mile",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9022875,
+          9.5380143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kodikuthi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9145385,
+          9.5524987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulikkunnu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8854228,
+          9.5068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karinilam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.889937,
+          9.5186484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moozhiyar",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0667934,
+          9.3164491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paloorkavu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9373816,
+          9.5376546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thekkemala",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9511763,
+          9.5339662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanayankavayal",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.985432,
+          9.5211315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mathamba",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9873202,
+          9.5066246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuppakkayam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9538892,
+          9.5121058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabarimala",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0804323,
+          9.4366335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vallakkadavu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1104184,
+          9.5288902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irumboonnikkara",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8817645,
+          9.4752299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primary Health Centre, Ayyappancovil",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0397687,
+          9.6982784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govt: Ayurveda Hospital Mlamala",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0481541,
+          9.6317577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nilakkal Government Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0100019,
+          9.3895359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govt. Ayurveda Dispensary Vandanmedu",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1563447,
+          9.7229838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1780839,
+          9.7337065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Thomas EMHSS, School Ground",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1567421,
+          9.6188928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SGHS",
+        "type": "language_school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9021649,
+          9.627094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nss Lower Primary School,Chellarcovil",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1850339,
+          9.6744933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NEWLIGHT HOSPITAL",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1754553,
+          9.7353171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AYUSH HOMEO PHC VANDENMEDU",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.176557,
+          9.7340537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matha driving school",
+        "type": "driving_school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1159055,
+          9.7503486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government  Homeo Hospital kootar",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.206957,
+          9.7802082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santhigiri Ayurveda And Siddhant Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1687528,
+          9.6091869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "school building",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9948653,
+          9.5700572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vetinary Hospital Building",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9918682,
+          9.5732884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Pius X English Medium School Kuttikanam",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9703776,
+          9.5829377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jyothi Hospital Emergency Casualities",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1673891,
+          9.6044904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Illithodu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2017612,
+          9.7623413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odamedu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1199822,
+          9.6239348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Health Centre Vandiperyar",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0895717,
+          9.5720991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0225379,
+          9.736273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0623437,
+          9.7384549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govt.Tribal School",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0627099,
+          9.7802042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government Lower Primary School, Punchavayal",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.91417,
+          9.4874011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koottickal",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8854329,
+          9.5841147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vandiperiyar",
+        "type": "town",
+        "population": 22978,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0918879,
+          9.5729206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ossanam English Medium Higher Secondary School",
+        "type": "prep_school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1135087,
+          9.7497642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santhigiri Ayurvedic Hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8860031,
+          9.5840195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ST Mary's High School Ground",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.954096,
+          9.4295805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government Lower Primary School, Third Camp",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1983334,
+          9.7942406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Family Welfare Centre, Mundakayam",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9005147,
+          9.5099479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PM Lower Primary School",
+        "type": "school",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1770065,
+          9.7892795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inchappadappu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1368242,
+          9.6999287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goverment homeo hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1776723,
+          9.734229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surulipatti",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3017358,
+          9.7077881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gov. ayurveda  hospital",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0197478,
+          9.7004369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govenment Hosptial",
+        "type": "hospital",
+        "population": 0,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.015714,
+          9.7088667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayyappancoil",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.033801,
+          9.7157647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mali",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1423878,
+          9.7164299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edakadathy",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9117159,
+          9.4254424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koruthodu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9629568,
+          9.4654264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nilackal",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0137399,
+          9.3895665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anakuthi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1379277,
+          9.7682764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Periyonkavala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0506184,
+          9.7250928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anchuruli",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0762813,
+          9.7694314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plamoodu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0972261,
+          9.7440042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nariampara",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0905298,
+          9.7413697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nariampara School Kavala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.085411,
+          9.7291118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suvarnagiri",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1019277,
+          9.7591463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chennappara Top",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9695113,
+          9.5022861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anakallu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9511736,
+          9.4505832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulimkatta",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9592442,
+          9.7085362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2nd Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1641207,
+          9.62584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hill Top",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1347053,
+          9.751433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santhipalam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0451858,
+          9.6412333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maruthummoodu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9145013,
+          9.5352366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chuzhuppu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.937208,
+          9.5491848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amalagiri",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9517143,
+          9.5584414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pullupara",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9560382,
+          9.5583115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulikkunnu Top",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8861842,
+          9.5029754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punchavayal",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.898007,
+          9.4967741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chennappara",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9584971,
+          9.5024641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Pambanar",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0159,
+          9.5799071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kallarkavala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0118193,
+          9.5747266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kakki Kavala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0970526,
+          9.5778514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nellimala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1028841,
+          9.5842209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dymock",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0876961,
+          9.6183993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kokkayar",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8974332,
+          9.5735294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meloram",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9346538,
+          9.5660227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Azhangadu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9446148,
+          9.5754958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yendayar",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8888306,
+          9.6180123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wembley",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8961739,
+          9.5983606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elamkadu",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8955539,
+          9.634068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thalayinathadam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8923677,
+          9.4378139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aruvachamkuzhy",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8998631,
+          9.4338444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "40 Acre",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8896829,
+          9.446953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pakkanam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8977404,
+          9.4910312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angelvalley",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9551202,
+          9.4274085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kollampattada",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1541307,
+          9.6109602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attappallam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1463449,
+          9.6308858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7th Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1593118,
+          9.6575714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mecherikkada",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0188903,
+          9.7023054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asupathripadi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.015635,
+          9.7084089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omega",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9824105,
+          9.7173834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuriankandam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9700778,
+          9.7186158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MC Kavala",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9881042,
+          9.7019958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3rd Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.993169,
+          9.6536871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edappookkulam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0503962,
+          9.674426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pattumudy",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.046725,
+          9.578895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "56th Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0593539,
+          9.5732765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "57th Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0592128,
+          9.5697973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nirmalacity",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0749327,
+          9.7835313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uppukandam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1120181,
+          9.7886603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wallardie",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1068284,
+          9.5839141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "62nd Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1196839,
+          9.5848031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palanikkavu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0805481,
+          9.6684026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheenthalar",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9772204,
+          9.6738945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murikkattukudy",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0411177,
+          9.733881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thumarampara",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.88361,
+          9.4678313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pallippady",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9566004,
+          9.4764373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kosadi",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9405712,
+          9.4845865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kottaramkada",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9386869,
+          9.4783958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "34th Mile",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8931276,
+          9.5384181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vellayamkudi",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1027079,
+          9.7689001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mettukuzhy",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1138071,
+          9.7276229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vazhaveedu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1238884,
+          9.6849588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kallumedu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0923058,
+          9.6523865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hemakkadavu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.159962,
+          9.7455954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nirappelkada",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1218015,
+          9.764494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kunthalampara",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.124824,
+          9.7425969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheruvallikkulam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.986635,
+          9.5365645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koinadu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9981602,
+          9.5140245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thankachankada",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2110417,
+          9.7351753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manikkal",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9144853,
+          9.5309636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marykulam",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0399413,
+          9.6965451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swaraj",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0491129,
+          9.7329886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mattukkatta",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0403652,
+          9.7026022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vellilamkandam",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.050403,
+          9.7125918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7th Number",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9537374,
+          9.7013839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upputhara",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0208998,
+          9.699955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chettukuzhi",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1767594,
+          9.7350837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malayilputhuval",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9561401,
+          9.6738796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mulakaramedu",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0816419,
+          9.7792066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanyasioda",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1768763,
+          9.7869442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narayanathevanpatti",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3089728,
+          9.7233527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Camp",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1986008,
+          9.6297482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eravangalar",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3120799,
+          9.607418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manalar",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3436271,
+          9.6206896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karuna Muthevan Patti",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2859522,
+          9.6820965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kulappa Gounden Patti",
+        "type": "village",
+        "population": 5000,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2746561,
+          9.6639919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pachakkanam",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1453331,
+          9.4637821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3810622,
+          9.6148086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vasanta Estate",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4041318,
+          9.546922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aruna Estate",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3770952,
+          9.5313263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vellimalai Estate",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3867512,
+          9.5292736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vannathiparai",
+        "type": "hamlet",
+        "population": 500,
+        "elevation_m": 0,
+        "source": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2689593,
+          9.6253231
+        ]
+      }
+    }
+  ]
+}

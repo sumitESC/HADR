@@ -1,0 +1,31 @@
+{
+  "simulation_id": "test-nagarjuna-sagar",
+  "status": "completed",
+  "engine": "terrain",
+  "engine_name": "Physics-Based Terrain Flood Propagation Engine",
+  "dam_id": "nagarjuna-sagar",
+  "dam_name": "Nagarjuna Sagar Dam",
+  "dam_state": "Telangana",
+  "dam_river": "Krishna",
+  "dam_lat": 16.575,
+  "dam_lon": 79.3137,
+  "dam_height_m": 124.0,
+  "release_percent": 40.0,
+  "duration_min": 180.0,
+  "time_step_min": 60,
+  "timesteps_min": [
+    0,
+    60,
+    120,
+    180
+  ],
+  "max_depth_m": 29.0,
+  "inundated_area_km2": 330.37,
+  "hydrograph": {
+    "q_peak_m3s": 11876.85,
+    "total_volume_m3": 64135013.66,
+    "effective_breach_width_m": 20.0,
+    "eff_height_m": 49.6,
+    "duration_sec": 10800.0
+  }
+}
