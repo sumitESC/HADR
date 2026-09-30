@@ -11,20 +11,20 @@ def check_url(url, name):
         
         # Check if response status is 200 OK
         if response.status == 200:
-            print(f"✅ {name} is UP! (Status Code: 200)")
+            print(f"[OK] {name} is UP! (Status Code: 200)")
             return True
         else:
-            print(f"⚠️ {name} returned status code: {response.status}")
+            print(f"[WARNING] {name} returned status code: {response.status}")
             return False
             
     except urllib.error.HTTPError as e:
-        print(f"❌ {name} returned an HTTP Error: {e.code} - {e.reason}")
+        print(f"[FAIL] {name} returned an HTTP Error: {e.code} - {e.reason}")
         return False
     except urllib.error.URLError as e:
-        print(f"❌ {name} is DOWN or unreachable! Error: {e.reason}")
+        print(f"[FAIL] {name} is DOWN or unreachable! Error: {e.reason}")
         return False
     except Exception as e:
-        print(f"❌ {name} encountered an unexpected error: {e}")
+        print(f"[ERROR] {name} encountered an unexpected error: {e}")
         return False
 
 def main():
@@ -40,10 +40,10 @@ def main():
 
     print("\n----------------------------------------")
     if frontend_ok and backend_ok:
-        print("🎉 ALL SYSTEMS ARE OPERATIONAL!")
+        print("[SUCCESS] ALL SYSTEMS ARE OPERATIONAL!")
         sys.exit(0)
     else:
-        print("⚠️ WARNING: SOME SYSTEMS ARE DOWN OR UNREACHABLE.")
+        print("[WARNING] SOME SYSTEMS ARE DOWN OR UNREACHABLE.")
         sys.exit(1)
 
 if __name__ == "__main__":
